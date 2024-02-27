@@ -1,0 +1,3424 @@
+.corona-location {
+	position: absolute;
+	-webkit-transform: scale(0);
+	-ms-transform: scale(0);
+	transform: scale(0);
+	will-change: transfrom;
+}
+
+.corona-virus-1-location {
+	-webkit-animation: coronaLocation1 10s linear var(--delay, 960ms);
+	animation: coronaLocation1 10s linear var(--delay, 960ms);
+}
+
+@-webkit-keyframes coronaLocation1 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(75vh) scale(0.4)
+			rotate(-32deg);
+		transform: translateX(-10vw) translateY(75vh) scale(0.4) rotate(-32deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(3vh) scale(0.7) rotate(35deg);
+		transform: translateX(20vw) translateY(3vh) scale(0.7) rotate(35deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(64vh) scale(0.7)
+			rotate(-29deg);
+		transform: translateX(40vw) translateY(64vh) scale(0.7) rotate(-29deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(6vh) scale(0.6)
+			rotate(-13deg);
+		transform: translateX(60vw) translateY(6vh) scale(0.6) rotate(-13deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(24vh) scale(0.8)
+			rotate(27deg);
+		transform: translateX(80vw) translateY(24vh) scale(0.8) rotate(27deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(32vh) scale(0.4)
+			rotate(-13deg);
+		transform: translateX(110vw) translateY(32vh) scale(0.4) rotate(-13deg);
+	}
+}
+
+@keyframes coronaLocation1 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(75vh) scale(0.4)
+			rotate(-32deg);
+		transform: translateX(-10vw) translateY(75vh) scale(0.4) rotate(-32deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(3vh) scale(0.7) rotate(35deg);
+		transform: translateX(20vw) translateY(3vh) scale(0.7) rotate(35deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(64vh) scale(0.7)
+			rotate(-29deg);
+		transform: translateX(40vw) translateY(64vh) scale(0.7) rotate(-29deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(6vh) scale(0.6)
+			rotate(-13deg);
+		transform: translateX(60vw) translateY(6vh) scale(0.6) rotate(-13deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(24vh) scale(0.8)
+			rotate(27deg);
+		transform: translateX(80vw) translateY(24vh) scale(0.8) rotate(27deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(32vh) scale(0.4)
+			rotate(-13deg);
+		transform: translateX(110vw) translateY(32vh) scale(0.4) rotate(-13deg);
+	}
+}
+.corona-virus-2-location {
+	-webkit-animation: coronaLocation2 10s linear var(--delay, 1920ms);
+	animation: coronaLocation2 10s linear var(--delay, 1920ms);
+}
+
+@-webkit-keyframes coronaLocation2 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(32vh) scale(0.7)
+			rotate(27deg);
+		transform: translateX(-10vw) translateY(32vh) scale(0.7) rotate(27deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(28vh) scale(0.4)
+			rotate(42deg);
+		transform: translateX(20vw) translateY(28vh) scale(0.4) rotate(42deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(60vh) scale(0.4)
+			rotate(44deg);
+		transform: translateX(40vw) translateY(60vh) scale(0.4) rotate(44deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(15vh) scale(0.7)
+			rotate(-39deg);
+		transform: translateX(60vw) translateY(15vh) scale(0.7) rotate(-39deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(69vh) scale(0.8) rotate(8deg);
+		transform: translateX(80vw) translateY(69vh) scale(0.8) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(13vh) scale(0.8)
+			rotate(30deg);
+		transform: translateX(110vw) translateY(13vh) scale(0.8) rotate(30deg);
+	}
+}
+
+@keyframes coronaLocation2 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(32vh) scale(0.7)
+			rotate(27deg);
+		transform: translateX(-10vw) translateY(32vh) scale(0.7) rotate(27deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(28vh) scale(0.4)
+			rotate(42deg);
+		transform: translateX(20vw) translateY(28vh) scale(0.4) rotate(42deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(60vh) scale(0.4)
+			rotate(44deg);
+		transform: translateX(40vw) translateY(60vh) scale(0.4) rotate(44deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(15vh) scale(0.7)
+			rotate(-39deg);
+		transform: translateX(60vw) translateY(15vh) scale(0.7) rotate(-39deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(69vh) scale(0.8) rotate(8deg);
+		transform: translateX(80vw) translateY(69vh) scale(0.8) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(13vh) scale(0.8)
+			rotate(30deg);
+		transform: translateX(110vw) translateY(13vh) scale(0.8) rotate(30deg);
+	}
+}
+.corona-virus-3-location {
+	-webkit-animation: coronaLocation3 10s linear var(--delay, 2880ms);
+	animation: coronaLocation3 10s linear var(--delay, 2880ms);
+}
+
+@-webkit-keyframes coronaLocation3 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(37vh) scale(0.4)
+			rotate(-40deg);
+		transform: translateX(-10vw) translateY(37vh) scale(0.4) rotate(-40deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(80vh) scale(0.6) rotate(4deg);
+		transform: translateX(20vw) translateY(80vh) scale(0.6) rotate(4deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(32vh) scale(0.4)
+			rotate(-9deg);
+		transform: translateX(40vw) translateY(32vh) scale(0.4) rotate(-9deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(72vh) scale(0.7)
+			rotate(11deg);
+		transform: translateX(60vw) translateY(72vh) scale(0.7) rotate(11deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(74vh) scale(0.5)
+			rotate(24deg);
+		transform: translateX(80vw) translateY(74vh) scale(0.5) rotate(24deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(66vh) scale(0.6)
+			rotate(32deg);
+		transform: translateX(110vw) translateY(66vh) scale(0.6) rotate(32deg);
+	}
+}
+
+@keyframes coronaLocation3 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(37vh) scale(0.4)
+			rotate(-40deg);
+		transform: translateX(-10vw) translateY(37vh) scale(0.4) rotate(-40deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(80vh) scale(0.6) rotate(4deg);
+		transform: translateX(20vw) translateY(80vh) scale(0.6) rotate(4deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(32vh) scale(0.4)
+			rotate(-9deg);
+		transform: translateX(40vw) translateY(32vh) scale(0.4) rotate(-9deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(72vh) scale(0.7)
+			rotate(11deg);
+		transform: translateX(60vw) translateY(72vh) scale(0.7) rotate(11deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(74vh) scale(0.5)
+			rotate(24deg);
+		transform: translateX(80vw) translateY(74vh) scale(0.5) rotate(24deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(66vh) scale(0.6)
+			rotate(32deg);
+		transform: translateX(110vw) translateY(66vh) scale(0.6) rotate(32deg);
+	}
+}
+.corona-virus-4-location {
+	-webkit-animation: coronaLocation4 10s linear var(--delay, 3840ms);
+	animation: coronaLocation4 10s linear var(--delay, 3840ms);
+}
+
+@-webkit-keyframes coronaLocation4 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(35vh) scale(0.5)
+			rotate(-23deg);
+		transform: translateX(-10vw) translateY(35vh) scale(0.5) rotate(-23deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(6vh) scale(0.6) rotate(8deg);
+		transform: translateX(20vw) translateY(6vh) scale(0.6) rotate(8deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(62vh) scale(0.4)
+			rotate(33deg);
+		transform: translateX(40vw) translateY(62vh) scale(0.4) rotate(33deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(54vh) scale(0.6)
+			rotate(16deg);
+		transform: translateX(60vw) translateY(54vh) scale(0.6) rotate(16deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(50vh) scale(0.8)
+			rotate(-37deg);
+		transform: translateX(80vw) translateY(50vh) scale(0.8) rotate(-37deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(15vh) scale(0.5)
+			rotate(-24deg);
+		transform: translateX(110vw) translateY(15vh) scale(0.5) rotate(-24deg);
+	}
+}
+
+@keyframes coronaLocation4 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(35vh) scale(0.5)
+			rotate(-23deg);
+		transform: translateX(-10vw) translateY(35vh) scale(0.5) rotate(-23deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(6vh) scale(0.6) rotate(8deg);
+		transform: translateX(20vw) translateY(6vh) scale(0.6) rotate(8deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(62vh) scale(0.4)
+			rotate(33deg);
+		transform: translateX(40vw) translateY(62vh) scale(0.4) rotate(33deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(54vh) scale(0.6)
+			rotate(16deg);
+		transform: translateX(60vw) translateY(54vh) scale(0.6) rotate(16deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(50vh) scale(0.8)
+			rotate(-37deg);
+		transform: translateX(80vw) translateY(50vh) scale(0.8) rotate(-37deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(15vh) scale(0.5)
+			rotate(-24deg);
+		transform: translateX(110vw) translateY(15vh) scale(0.5) rotate(-24deg);
+	}
+}
+.corona-virus-5-location {
+	-webkit-animation: coronaLocation5 10s linear var(--delay, 4800ms);
+	animation: coronaLocation5 10s linear var(--delay, 4800ms);
+}
+
+@-webkit-keyframes coronaLocation5 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(4vh) scale(0.4)
+			rotate(-34deg);
+		transform: translateX(-10vw) translateY(4vh) scale(0.4) rotate(-34deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(78vh) scale(0.8)
+			rotate(30deg);
+		transform: translateX(20vw) translateY(78vh) scale(0.8) rotate(30deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(63vh) scale(0.7)
+			rotate(-3deg);
+		transform: translateX(40vw) translateY(63vh) scale(0.7) rotate(-3deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(15vh) scale(0.5) rotate(4deg);
+		transform: translateX(60vw) translateY(15vh) scale(0.5) rotate(4deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(74vh) scale(0.5)
+			rotate(12deg);
+		transform: translateX(80vw) translateY(74vh) scale(0.5) rotate(12deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(80vh) scale(0.6)
+			rotate(5deg);
+		transform: translateX(110vw) translateY(80vh) scale(0.6) rotate(5deg);
+	}
+}
+
+@keyframes coronaLocation5 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(4vh) scale(0.4)
+			rotate(-34deg);
+		transform: translateX(-10vw) translateY(4vh) scale(0.4) rotate(-34deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(78vh) scale(0.8)
+			rotate(30deg);
+		transform: translateX(20vw) translateY(78vh) scale(0.8) rotate(30deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(63vh) scale(0.7)
+			rotate(-3deg);
+		transform: translateX(40vw) translateY(63vh) scale(0.7) rotate(-3deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(15vh) scale(0.5) rotate(4deg);
+		transform: translateX(60vw) translateY(15vh) scale(0.5) rotate(4deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(74vh) scale(0.5)
+			rotate(12deg);
+		transform: translateX(80vw) translateY(74vh) scale(0.5) rotate(12deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(80vh) scale(0.6)
+			rotate(5deg);
+		transform: translateX(110vw) translateY(80vh) scale(0.6) rotate(5deg);
+	}
+}
+.corona-virus-6-location {
+	-webkit-animation: coronaLocation6 10s linear var(--delay, 5760ms);
+	animation: coronaLocation6 10s linear var(--delay, 5760ms);
+}
+
+@-webkit-keyframes coronaLocation6 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(19vh) scale(0.5)
+			rotate(24deg);
+		transform: translateX(-10vw) translateY(19vh) scale(0.5) rotate(24deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(8vh) scale(0.6)
+			rotate(-43deg);
+		transform: translateX(20vw) translateY(8vh) scale(0.6) rotate(-43deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(80vh) scale(0.6)
+			rotate(44deg);
+		transform: translateX(40vw) translateY(80vh) scale(0.6) rotate(44deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(55vh) scale(0.6)
+			rotate(-4deg);
+		transform: translateX(60vw) translateY(55vh) scale(0.6) rotate(-4deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(79vh) scale(0.6) rotate(7deg);
+		transform: translateX(80vw) translateY(79vh) scale(0.6) rotate(7deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(13vh) scale(0.4)
+			rotate(-30deg);
+		transform: translateX(110vw) translateY(13vh) scale(0.4) rotate(-30deg);
+	}
+}
+
+@keyframes coronaLocation6 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(19vh) scale(0.5)
+			rotate(24deg);
+		transform: translateX(-10vw) translateY(19vh) scale(0.5) rotate(24deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(8vh) scale(0.6)
+			rotate(-43deg);
+		transform: translateX(20vw) translateY(8vh) scale(0.6) rotate(-43deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(80vh) scale(0.6)
+			rotate(44deg);
+		transform: translateX(40vw) translateY(80vh) scale(0.6) rotate(44deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(55vh) scale(0.6)
+			rotate(-4deg);
+		transform: translateX(60vw) translateY(55vh) scale(0.6) rotate(-4deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(79vh) scale(0.6) rotate(7deg);
+		transform: translateX(80vw) translateY(79vh) scale(0.6) rotate(7deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(13vh) scale(0.4)
+			rotate(-30deg);
+		transform: translateX(110vw) translateY(13vh) scale(0.4) rotate(-30deg);
+	}
+}
+.corona-virus-7-location {
+	-webkit-animation: coronaLocation7 10s linear var(--delay, 6720ms);
+	animation: coronaLocation7 10s linear var(--delay, 6720ms);
+}
+
+@-webkit-keyframes coronaLocation7 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(4vh) scale(0.8)
+			rotate(41deg);
+		transform: translateX(-10vw) translateY(4vh) scale(0.8) rotate(41deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(35vh) scale(0.7)
+			rotate(45deg);
+		transform: translateX(20vw) translateY(35vh) scale(0.7) rotate(45deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(11vh) scale(0.8)
+			rotate(-27deg);
+		transform: translateX(40vw) translateY(11vh) scale(0.8) rotate(-27deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(15vh) scale(0.7) rotate(8deg);
+		transform: translateX(60vw) translateY(15vh) scale(0.7) rotate(8deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(18vh) scale(0.6)
+			rotate(45deg);
+		transform: translateX(80vw) translateY(18vh) scale(0.6) rotate(45deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(43vh) scale(0.8)
+			rotate(-31deg);
+		transform: translateX(110vw) translateY(43vh) scale(0.8) rotate(-31deg);
+	}
+}
+
+@keyframes coronaLocation7 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(4vh) scale(0.8)
+			rotate(41deg);
+		transform: translateX(-10vw) translateY(4vh) scale(0.8) rotate(41deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(35vh) scale(0.7)
+			rotate(45deg);
+		transform: translateX(20vw) translateY(35vh) scale(0.7) rotate(45deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(11vh) scale(0.8)
+			rotate(-27deg);
+		transform: translateX(40vw) translateY(11vh) scale(0.8) rotate(-27deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(15vh) scale(0.7) rotate(8deg);
+		transform: translateX(60vw) translateY(15vh) scale(0.7) rotate(8deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(18vh) scale(0.6)
+			rotate(45deg);
+		transform: translateX(80vw) translateY(18vh) scale(0.6) rotate(45deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(43vh) scale(0.8)
+			rotate(-31deg);
+		transform: translateX(110vw) translateY(43vh) scale(0.8) rotate(-31deg);
+	}
+}
+.corona-virus-8-location {
+	-webkit-animation: coronaLocation8 10s linear var(--delay, 7680ms);
+	animation: coronaLocation8 10s linear var(--delay, 7680ms);
+}
+
+@-webkit-keyframes coronaLocation8 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(16vh) scale(0.8)
+			rotate(-26deg);
+		transform: translateX(-10vw) translateY(16vh) scale(0.8) rotate(-26deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(78vh) scale(0.8) rotate(3deg);
+		transform: translateX(20vw) translateY(78vh) scale(0.8) rotate(3deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(48vh) scale(0.5)
+			rotate(21deg);
+		transform: translateX(40vw) translateY(48vh) scale(0.5) rotate(21deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(71vh) scale(0.4)
+			rotate(-35deg);
+		transform: translateX(60vw) translateY(71vh) scale(0.4) rotate(-35deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(49vh) scale(0.6)
+			rotate(-31deg);
+		transform: translateX(80vw) translateY(49vh) scale(0.6) rotate(-31deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(1vh) scale(0.7)
+			rotate(11deg);
+		transform: translateX(110vw) translateY(1vh) scale(0.7) rotate(11deg);
+	}
+}
+
+@keyframes coronaLocation8 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(16vh) scale(0.8)
+			rotate(-26deg);
+		transform: translateX(-10vw) translateY(16vh) scale(0.8) rotate(-26deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(78vh) scale(0.8) rotate(3deg);
+		transform: translateX(20vw) translateY(78vh) scale(0.8) rotate(3deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(48vh) scale(0.5)
+			rotate(21deg);
+		transform: translateX(40vw) translateY(48vh) scale(0.5) rotate(21deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(71vh) scale(0.4)
+			rotate(-35deg);
+		transform: translateX(60vw) translateY(71vh) scale(0.4) rotate(-35deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(49vh) scale(0.6)
+			rotate(-31deg);
+		transform: translateX(80vw) translateY(49vh) scale(0.6) rotate(-31deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(1vh) scale(0.7)
+			rotate(11deg);
+		transform: translateX(110vw) translateY(1vh) scale(0.7) rotate(11deg);
+	}
+}
+.corona-virus-9-location {
+	-webkit-animation: coronaLocation9 10s linear var(--delay, 8640ms);
+	animation: coronaLocation9 10s linear var(--delay, 8640ms);
+}
+
+@-webkit-keyframes coronaLocation9 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(28vh) scale(0.4)
+			rotate(-1deg);
+		transform: translateX(-10vw) translateY(28vh) scale(0.4) rotate(-1deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(77vh) scale(0.4) rotate(9deg);
+		transform: translateX(20vw) translateY(77vh) scale(0.4) rotate(9deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(32vh) scale(0.6) rotate(3deg);
+		transform: translateX(40vw) translateY(32vh) scale(0.6) rotate(3deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(43vh) scale(0.6)
+			rotate(13deg);
+		transform: translateX(60vw) translateY(43vh) scale(0.6) rotate(13deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(51vh) scale(0.7)
+			rotate(12deg);
+		transform: translateX(80vw) translateY(51vh) scale(0.7) rotate(12deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(62vh) scale(0.6)
+			rotate(42deg);
+		transform: translateX(110vw) translateY(62vh) scale(0.6) rotate(42deg);
+	}
+}
+
+@keyframes coronaLocation9 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(28vh) scale(0.4)
+			rotate(-1deg);
+		transform: translateX(-10vw) translateY(28vh) scale(0.4) rotate(-1deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(77vh) scale(0.4) rotate(9deg);
+		transform: translateX(20vw) translateY(77vh) scale(0.4) rotate(9deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(32vh) scale(0.6) rotate(3deg);
+		transform: translateX(40vw) translateY(32vh) scale(0.6) rotate(3deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(43vh) scale(0.6)
+			rotate(13deg);
+		transform: translateX(60vw) translateY(43vh) scale(0.6) rotate(13deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(51vh) scale(0.7)
+			rotate(12deg);
+		transform: translateX(80vw) translateY(51vh) scale(0.7) rotate(12deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(62vh) scale(0.6)
+			rotate(42deg);
+		transform: translateX(110vw) translateY(62vh) scale(0.6) rotate(42deg);
+	}
+}
+.corona-virus-10-location {
+	-webkit-animation: coronaLocation10 10s linear var(--delay, 9600ms);
+	animation: coronaLocation10 10s linear var(--delay, 9600ms);
+}
+
+@-webkit-keyframes coronaLocation10 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(50vh) scale(0.4)
+			rotate(23deg);
+		transform: translateX(-10vw) translateY(50vh) scale(0.4) rotate(23deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(28vh) scale(0.8)
+			rotate(22deg);
+		transform: translateX(20vw) translateY(28vh) scale(0.8) rotate(22deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(8vh) scale(0.6) rotate(-7deg);
+		transform: translateX(40vw) translateY(8vh) scale(0.6) rotate(-7deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(77vh) scale(0.7)
+			rotate(34deg);
+		transform: translateX(60vw) translateY(77vh) scale(0.7) rotate(34deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(38vh) scale(0.8)
+			rotate(36deg);
+		transform: translateX(80vw) translateY(38vh) scale(0.8) rotate(36deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(22vh) scale(0.7)
+			rotate(-12deg);
+		transform: translateX(110vw) translateY(22vh) scale(0.7) rotate(-12deg);
+	}
+}
+
+@keyframes coronaLocation10 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(50vh) scale(0.4)
+			rotate(23deg);
+		transform: translateX(-10vw) translateY(50vh) scale(0.4) rotate(23deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(28vh) scale(0.8)
+			rotate(22deg);
+		transform: translateX(20vw) translateY(28vh) scale(0.8) rotate(22deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(8vh) scale(0.6) rotate(-7deg);
+		transform: translateX(40vw) translateY(8vh) scale(0.6) rotate(-7deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(77vh) scale(0.7)
+			rotate(34deg);
+		transform: translateX(60vw) translateY(77vh) scale(0.7) rotate(34deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(38vh) scale(0.8)
+			rotate(36deg);
+		transform: translateX(80vw) translateY(38vh) scale(0.8) rotate(36deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(22vh) scale(0.7)
+			rotate(-12deg);
+		transform: translateX(110vw) translateY(22vh) scale(0.7) rotate(-12deg);
+	}
+}
+.corona-virus-11-location {
+	-webkit-animation: coronaLocation11 10s linear var(--delay, 10560ms);
+	animation: coronaLocation11 10s linear var(--delay, 10560ms);
+}
+
+@-webkit-keyframes coronaLocation11 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(37vh) scale(0.5)
+			rotate(29deg);
+		transform: translateX(-10vw) translateY(37vh) scale(0.5) rotate(29deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(52vh) scale(0.7)
+			rotate(-37deg);
+		transform: translateX(20vw) translateY(52vh) scale(0.7) rotate(-37deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(42vh) scale(0.5)
+			rotate(36deg);
+		transform: translateX(40vw) translateY(42vh) scale(0.5) rotate(36deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(15vh) scale(0.5)
+			rotate(39deg);
+		transform: translateX(60vw) translateY(15vh) scale(0.5) rotate(39deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(30vh) scale(0.7) rotate(7deg);
+		transform: translateX(80vw) translateY(30vh) scale(0.7) rotate(7deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(24vh) scale(0.6)
+			rotate(-5deg);
+		transform: translateX(110vw) translateY(24vh) scale(0.6) rotate(-5deg);
+	}
+}
+
+@keyframes coronaLocation11 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(37vh) scale(0.5)
+			rotate(29deg);
+		transform: translateX(-10vw) translateY(37vh) scale(0.5) rotate(29deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(52vh) scale(0.7)
+			rotate(-37deg);
+		transform: translateX(20vw) translateY(52vh) scale(0.7) rotate(-37deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(42vh) scale(0.5)
+			rotate(36deg);
+		transform: translateX(40vw) translateY(42vh) scale(0.5) rotate(36deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(15vh) scale(0.5)
+			rotate(39deg);
+		transform: translateX(60vw) translateY(15vh) scale(0.5) rotate(39deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(30vh) scale(0.7) rotate(7deg);
+		transform: translateX(80vw) translateY(30vh) scale(0.7) rotate(7deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(24vh) scale(0.6)
+			rotate(-5deg);
+		transform: translateX(110vw) translateY(24vh) scale(0.6) rotate(-5deg);
+	}
+}
+.corona-virus-12-location {
+	-webkit-animation: coronaLocation12 10s linear var(--delay, 11520ms);
+	animation: coronaLocation12 10s linear var(--delay, 11520ms);
+}
+
+@-webkit-keyframes coronaLocation12 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(7vh) scale(0.6)
+			rotate(29deg);
+		transform: translateX(-10vw) translateY(7vh) scale(0.6) rotate(29deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(8vh) scale(0.4)
+			rotate(-24deg);
+		transform: translateX(20vw) translateY(8vh) scale(0.4) rotate(-24deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(58vh) scale(0.8)
+			rotate(19deg);
+		transform: translateX(40vw) translateY(58vh) scale(0.8) rotate(19deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(40vh) scale(0.8)
+			rotate(14deg);
+		transform: translateX(60vw) translateY(40vh) scale(0.8) rotate(14deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(73vh) scale(0.7)
+			rotate(20deg);
+		transform: translateX(80vw) translateY(73vh) scale(0.7) rotate(20deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(12vh) scale(0.7)
+			rotate(35deg);
+		transform: translateX(110vw) translateY(12vh) scale(0.7) rotate(35deg);
+	}
+}
+
+@keyframes coronaLocation12 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(7vh) scale(0.6)
+			rotate(29deg);
+		transform: translateX(-10vw) translateY(7vh) scale(0.6) rotate(29deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(8vh) scale(0.4)
+			rotate(-24deg);
+		transform: translateX(20vw) translateY(8vh) scale(0.4) rotate(-24deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(58vh) scale(0.8)
+			rotate(19deg);
+		transform: translateX(40vw) translateY(58vh) scale(0.8) rotate(19deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(40vh) scale(0.8)
+			rotate(14deg);
+		transform: translateX(60vw) translateY(40vh) scale(0.8) rotate(14deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(73vh) scale(0.7)
+			rotate(20deg);
+		transform: translateX(80vw) translateY(73vh) scale(0.7) rotate(20deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(12vh) scale(0.7)
+			rotate(35deg);
+		transform: translateX(110vw) translateY(12vh) scale(0.7) rotate(35deg);
+	}
+}
+.corona-virus-13-location {
+	-webkit-animation: coronaLocation13 10s linear var(--delay, 12480ms);
+	animation: coronaLocation13 10s linear var(--delay, 12480ms);
+}
+
+@-webkit-keyframes coronaLocation13 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(72vh) scale(0.5)
+			rotate(26deg);
+		transform: translateX(-10vw) translateY(72vh) scale(0.5) rotate(26deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(8vh) scale(0.7)
+			rotate(-27deg);
+		transform: translateX(20vw) translateY(8vh) scale(0.7) rotate(-27deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(69vh) scale(0.6)
+			rotate(-32deg);
+		transform: translateX(40vw) translateY(69vh) scale(0.6) rotate(-32deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(21vh) scale(0.8)
+			rotate(44deg);
+		transform: translateX(60vw) translateY(21vh) scale(0.8) rotate(44deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(30vh) scale(0.5)
+			rotate(25deg);
+		transform: translateX(80vw) translateY(30vh) scale(0.5) rotate(25deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(26vh) scale(0.7)
+			rotate(15deg);
+		transform: translateX(110vw) translateY(26vh) scale(0.7) rotate(15deg);
+	}
+}
+
+@keyframes coronaLocation13 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(72vh) scale(0.5)
+			rotate(26deg);
+		transform: translateX(-10vw) translateY(72vh) scale(0.5) rotate(26deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(8vh) scale(0.7)
+			rotate(-27deg);
+		transform: translateX(20vw) translateY(8vh) scale(0.7) rotate(-27deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(69vh) scale(0.6)
+			rotate(-32deg);
+		transform: translateX(40vw) translateY(69vh) scale(0.6) rotate(-32deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(21vh) scale(0.8)
+			rotate(44deg);
+		transform: translateX(60vw) translateY(21vh) scale(0.8) rotate(44deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(30vh) scale(0.5)
+			rotate(25deg);
+		transform: translateX(80vw) translateY(30vh) scale(0.5) rotate(25deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(26vh) scale(0.7)
+			rotate(15deg);
+		transform: translateX(110vw) translateY(26vh) scale(0.7) rotate(15deg);
+	}
+}
+.corona-virus-14-location {
+	-webkit-animation: coronaLocation14 10s linear var(--delay, 13440ms);
+	animation: coronaLocation14 10s linear var(--delay, 13440ms);
+}
+
+@-webkit-keyframes coronaLocation14 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(32vh) scale(0.5)
+			rotate(40deg);
+		transform: translateX(-10vw) translateY(32vh) scale(0.5) rotate(40deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(57vh) scale(0.6) rotate(2deg);
+		transform: translateX(20vw) translateY(57vh) scale(0.6) rotate(2deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(62vh) scale(0.8)
+			rotate(-14deg);
+		transform: translateX(40vw) translateY(62vh) scale(0.8) rotate(-14deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(47vh) scale(0.4)
+			rotate(-25deg);
+		transform: translateX(60vw) translateY(47vh) scale(0.4) rotate(-25deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(30vh) scale(0.4)
+			rotate(37deg);
+		transform: translateX(80vw) translateY(30vh) scale(0.4) rotate(37deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(71vh) scale(0.4)
+			rotate(37deg);
+		transform: translateX(110vw) translateY(71vh) scale(0.4) rotate(37deg);
+	}
+}
+
+@keyframes coronaLocation14 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(32vh) scale(0.5)
+			rotate(40deg);
+		transform: translateX(-10vw) translateY(32vh) scale(0.5) rotate(40deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(57vh) scale(0.6) rotate(2deg);
+		transform: translateX(20vw) translateY(57vh) scale(0.6) rotate(2deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(62vh) scale(0.8)
+			rotate(-14deg);
+		transform: translateX(40vw) translateY(62vh) scale(0.8) rotate(-14deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(47vh) scale(0.4)
+			rotate(-25deg);
+		transform: translateX(60vw) translateY(47vh) scale(0.4) rotate(-25deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(30vh) scale(0.4)
+			rotate(37deg);
+		transform: translateX(80vw) translateY(30vh) scale(0.4) rotate(37deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(71vh) scale(0.4)
+			rotate(37deg);
+		transform: translateX(110vw) translateY(71vh) scale(0.4) rotate(37deg);
+	}
+}
+.corona-virus-15-location {
+	-webkit-animation: coronaLocation15 10s linear var(--delay, 14400ms);
+	animation: coronaLocation15 10s linear var(--delay, 14400ms);
+}
+
+@-webkit-keyframes coronaLocation15 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(69vh) scale(0.5)
+			rotate(45deg);
+		transform: translateX(-10vw) translateY(69vh) scale(0.5) rotate(45deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(53vh) scale(0.7) rotate(7deg);
+		transform: translateX(20vw) translateY(53vh) scale(0.7) rotate(7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(44vh) scale(0.8)
+			rotate(-18deg);
+		transform: translateX(40vw) translateY(44vh) scale(0.8) rotate(-18deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(11vh) scale(0.6)
+			rotate(41deg);
+		transform: translateX(60vw) translateY(11vh) scale(0.6) rotate(41deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(73vh) scale(0.6) rotate(5deg);
+		transform: translateX(80vw) translateY(73vh) scale(0.6) rotate(5deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(53vh) scale(0.5)
+			rotate(31deg);
+		transform: translateX(110vw) translateY(53vh) scale(0.5) rotate(31deg);
+	}
+}
+
+@keyframes coronaLocation15 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(69vh) scale(0.5)
+			rotate(45deg);
+		transform: translateX(-10vw) translateY(69vh) scale(0.5) rotate(45deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(53vh) scale(0.7) rotate(7deg);
+		transform: translateX(20vw) translateY(53vh) scale(0.7) rotate(7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(44vh) scale(0.8)
+			rotate(-18deg);
+		transform: translateX(40vw) translateY(44vh) scale(0.8) rotate(-18deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(11vh) scale(0.6)
+			rotate(41deg);
+		transform: translateX(60vw) translateY(11vh) scale(0.6) rotate(41deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(73vh) scale(0.6) rotate(5deg);
+		transform: translateX(80vw) translateY(73vh) scale(0.6) rotate(5deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(53vh) scale(0.5)
+			rotate(31deg);
+		transform: translateX(110vw) translateY(53vh) scale(0.5) rotate(31deg);
+	}
+}
+.corona-virus-16-location {
+	-webkit-animation: coronaLocation16 10s linear var(--delay, 15360ms);
+	animation: coronaLocation16 10s linear var(--delay, 15360ms);
+}
+
+@-webkit-keyframes coronaLocation16 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(3vh) scale(0.7)
+			rotate(31deg);
+		transform: translateX(-10vw) translateY(3vh) scale(0.7) rotate(31deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(70vh) scale(0.8)
+			rotate(-17deg);
+		transform: translateX(20vw) translateY(70vh) scale(0.8) rotate(-17deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(11vh) scale(0.6)
+			rotate(-34deg);
+		transform: translateX(40vw) translateY(11vh) scale(0.6) rotate(-34deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(61vh) scale(0.7)
+			rotate(36deg);
+		transform: translateX(60vw) translateY(61vh) scale(0.7) rotate(36deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(67vh) scale(0.7)
+			rotate(-29deg);
+		transform: translateX(80vw) translateY(67vh) scale(0.7) rotate(-29deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(23vh) scale(0.4)
+			rotate(29deg);
+		transform: translateX(110vw) translateY(23vh) scale(0.4) rotate(29deg);
+	}
+}
+
+@keyframes coronaLocation16 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(3vh) scale(0.7)
+			rotate(31deg);
+		transform: translateX(-10vw) translateY(3vh) scale(0.7) rotate(31deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(70vh) scale(0.8)
+			rotate(-17deg);
+		transform: translateX(20vw) translateY(70vh) scale(0.8) rotate(-17deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(11vh) scale(0.6)
+			rotate(-34deg);
+		transform: translateX(40vw) translateY(11vh) scale(0.6) rotate(-34deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(61vh) scale(0.7)
+			rotate(36deg);
+		transform: translateX(60vw) translateY(61vh) scale(0.7) rotate(36deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(67vh) scale(0.7)
+			rotate(-29deg);
+		transform: translateX(80vw) translateY(67vh) scale(0.7) rotate(-29deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(23vh) scale(0.4)
+			rotate(29deg);
+		transform: translateX(110vw) translateY(23vh) scale(0.4) rotate(29deg);
+	}
+}
+.corona-virus-17-location {
+	-webkit-animation: coronaLocation17 10s linear var(--delay, 16320ms);
+	animation: coronaLocation17 10s linear var(--delay, 16320ms);
+}
+
+@-webkit-keyframes coronaLocation17 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(8vh) scale(0.8)
+			rotate(-14deg);
+		transform: translateX(-10vw) translateY(8vh) scale(0.8) rotate(-14deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(52vh) scale(0.7)
+			rotate(-30deg);
+		transform: translateX(20vw) translateY(52vh) scale(0.7) rotate(-30deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(77vh) scale(0.5)
+			rotate(-34deg);
+		transform: translateX(40vw) translateY(77vh) scale(0.5) rotate(-34deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(37vh) scale(0.5)
+			rotate(-6deg);
+		transform: translateX(60vw) translateY(37vh) scale(0.5) rotate(-6deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(6vh) scale(0.6)
+			rotate(-13deg);
+		transform: translateX(80vw) translateY(6vh) scale(0.6) rotate(-13deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(47vh) scale(0.4)
+			rotate(11deg);
+		transform: translateX(110vw) translateY(47vh) scale(0.4) rotate(11deg);
+	}
+}
+
+@keyframes coronaLocation17 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(8vh) scale(0.8)
+			rotate(-14deg);
+		transform: translateX(-10vw) translateY(8vh) scale(0.8) rotate(-14deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(52vh) scale(0.7)
+			rotate(-30deg);
+		transform: translateX(20vw) translateY(52vh) scale(0.7) rotate(-30deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(77vh) scale(0.5)
+			rotate(-34deg);
+		transform: translateX(40vw) translateY(77vh) scale(0.5) rotate(-34deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(37vh) scale(0.5)
+			rotate(-6deg);
+		transform: translateX(60vw) translateY(37vh) scale(0.5) rotate(-6deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(6vh) scale(0.6)
+			rotate(-13deg);
+		transform: translateX(80vw) translateY(6vh) scale(0.6) rotate(-13deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(47vh) scale(0.4)
+			rotate(11deg);
+		transform: translateX(110vw) translateY(47vh) scale(0.4) rotate(11deg);
+	}
+}
+.corona-virus-18-location {
+	-webkit-animation: coronaLocation18 10s linear var(--delay, 17280ms);
+	animation: coronaLocation18 10s linear var(--delay, 17280ms);
+}
+
+@-webkit-keyframes coronaLocation18 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(6vh) scale(0.4)
+			rotate(-26deg);
+		transform: translateX(-10vw) translateY(6vh) scale(0.4) rotate(-26deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(61vh) scale(0.7)
+			rotate(11deg);
+		transform: translateX(20vw) translateY(61vh) scale(0.7) rotate(11deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(24vh) scale(0.8)
+			rotate(23deg);
+		transform: translateX(40vw) translateY(24vh) scale(0.8) rotate(23deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(8vh) scale(0.6)
+			rotate(-21deg);
+		transform: translateX(60vw) translateY(8vh) scale(0.6) rotate(-21deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(16vh) scale(0.7)
+			rotate(-23deg);
+		transform: translateX(80vw) translateY(16vh) scale(0.7) rotate(-23deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(2vh) scale(0.6) rotate(2deg);
+		transform: translateX(110vw) translateY(2vh) scale(0.6) rotate(2deg);
+	}
+}
+
+@keyframes coronaLocation18 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(6vh) scale(0.4)
+			rotate(-26deg);
+		transform: translateX(-10vw) translateY(6vh) scale(0.4) rotate(-26deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(61vh) scale(0.7)
+			rotate(11deg);
+		transform: translateX(20vw) translateY(61vh) scale(0.7) rotate(11deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(24vh) scale(0.8)
+			rotate(23deg);
+		transform: translateX(40vw) translateY(24vh) scale(0.8) rotate(23deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(8vh) scale(0.6)
+			rotate(-21deg);
+		transform: translateX(60vw) translateY(8vh) scale(0.6) rotate(-21deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(16vh) scale(0.7)
+			rotate(-23deg);
+		transform: translateX(80vw) translateY(16vh) scale(0.7) rotate(-23deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(2vh) scale(0.6) rotate(2deg);
+		transform: translateX(110vw) translateY(2vh) scale(0.6) rotate(2deg);
+	}
+}
+.corona-virus-19-location {
+	-webkit-animation: coronaLocation19 10s linear var(--delay, 18240ms);
+	animation: coronaLocation19 10s linear var(--delay, 18240ms);
+}
+
+@-webkit-keyframes coronaLocation19 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(35vh) scale(0.8)
+			rotate(39deg);
+		transform: translateX(-10vw) translateY(35vh) scale(0.8) rotate(39deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(23vh) scale(0.7)
+			rotate(-25deg);
+		transform: translateX(20vw) translateY(23vh) scale(0.7) rotate(-25deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(21vh) scale(0.6)
+			rotate(23deg);
+		transform: translateX(40vw) translateY(21vh) scale(0.6) rotate(23deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(77vh) scale(0.6)
+			rotate(-7deg);
+		transform: translateX(60vw) translateY(77vh) scale(0.6) rotate(-7deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(38vh) scale(0.5)
+			rotate(34deg);
+		transform: translateX(80vw) translateY(38vh) scale(0.5) rotate(34deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(57vh) scale(0.8)
+			rotate(31deg);
+		transform: translateX(110vw) translateY(57vh) scale(0.8) rotate(31deg);
+	}
+}
+
+@keyframes coronaLocation19 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(35vh) scale(0.8)
+			rotate(39deg);
+		transform: translateX(-10vw) translateY(35vh) scale(0.8) rotate(39deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(23vh) scale(0.7)
+			rotate(-25deg);
+		transform: translateX(20vw) translateY(23vh) scale(0.7) rotate(-25deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(21vh) scale(0.6)
+			rotate(23deg);
+		transform: translateX(40vw) translateY(21vh) scale(0.6) rotate(23deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(77vh) scale(0.6)
+			rotate(-7deg);
+		transform: translateX(60vw) translateY(77vh) scale(0.6) rotate(-7deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(38vh) scale(0.5)
+			rotate(34deg);
+		transform: translateX(80vw) translateY(38vh) scale(0.5) rotate(34deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(57vh) scale(0.8)
+			rotate(31deg);
+		transform: translateX(110vw) translateY(57vh) scale(0.8) rotate(31deg);
+	}
+}
+.corona-virus-20-location {
+	-webkit-animation: coronaLocation20 10s linear var(--delay, 19200ms);
+	animation: coronaLocation20 10s linear var(--delay, 19200ms);
+}
+
+@-webkit-keyframes coronaLocation20 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(1vh) scale(0.7)
+			rotate(33deg);
+		transform: translateX(-10vw) translateY(1vh) scale(0.7) rotate(33deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(25vh) scale(0.8)
+			rotate(28deg);
+		transform: translateX(20vw) translateY(25vh) scale(0.8) rotate(28deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(67vh) scale(0.7)
+			rotate(22deg);
+		transform: translateX(40vw) translateY(67vh) scale(0.7) rotate(22deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(39vh) scale(0.6)
+			rotate(-11deg);
+		transform: translateX(60vw) translateY(39vh) scale(0.6) rotate(-11deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(79vh) scale(0.5)
+			rotate(33deg);
+		transform: translateX(80vw) translateY(79vh) scale(0.5) rotate(33deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(56vh) scale(0.6)
+			rotate(-24deg);
+		transform: translateX(110vw) translateY(56vh) scale(0.6) rotate(-24deg);
+	}
+}
+
+@keyframes coronaLocation20 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(1vh) scale(0.7)
+			rotate(33deg);
+		transform: translateX(-10vw) translateY(1vh) scale(0.7) rotate(33deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(25vh) scale(0.8)
+			rotate(28deg);
+		transform: translateX(20vw) translateY(25vh) scale(0.8) rotate(28deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(67vh) scale(0.7)
+			rotate(22deg);
+		transform: translateX(40vw) translateY(67vh) scale(0.7) rotate(22deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(39vh) scale(0.6)
+			rotate(-11deg);
+		transform: translateX(60vw) translateY(39vh) scale(0.6) rotate(-11deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(79vh) scale(0.5)
+			rotate(33deg);
+		transform: translateX(80vw) translateY(79vh) scale(0.5) rotate(33deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(56vh) scale(0.6)
+			rotate(-24deg);
+		transform: translateX(110vw) translateY(56vh) scale(0.6) rotate(-24deg);
+	}
+}
+.corona-virus-21-location {
+	-webkit-animation: coronaLocation21 10s linear var(--delay, 20160ms);
+	animation: coronaLocation21 10s linear var(--delay, 20160ms);
+}
+
+@-webkit-keyframes coronaLocation21 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(66vh) scale(0.4)
+			rotate(-12deg);
+		transform: translateX(-10vw) translateY(66vh) scale(0.4) rotate(-12deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(72vh) scale(0.6)
+			rotate(31deg);
+		transform: translateX(20vw) translateY(72vh) scale(0.6) rotate(31deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(47vh) scale(0.6)
+			rotate(13deg);
+		transform: translateX(40vw) translateY(47vh) scale(0.6) rotate(13deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(12vh) scale(0.5)
+			rotate(-31deg);
+		transform: translateX(60vw) translateY(12vh) scale(0.5) rotate(-31deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(35vh) scale(0.4)
+			rotate(-23deg);
+		transform: translateX(80vw) translateY(35vh) scale(0.4) rotate(-23deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(4vh) scale(0.4)
+			rotate(-5deg);
+		transform: translateX(110vw) translateY(4vh) scale(0.4) rotate(-5deg);
+	}
+}
+
+@keyframes coronaLocation21 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(66vh) scale(0.4)
+			rotate(-12deg);
+		transform: translateX(-10vw) translateY(66vh) scale(0.4) rotate(-12deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(72vh) scale(0.6)
+			rotate(31deg);
+		transform: translateX(20vw) translateY(72vh) scale(0.6) rotate(31deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(47vh) scale(0.6)
+			rotate(13deg);
+		transform: translateX(40vw) translateY(47vh) scale(0.6) rotate(13deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(12vh) scale(0.5)
+			rotate(-31deg);
+		transform: translateX(60vw) translateY(12vh) scale(0.5) rotate(-31deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(35vh) scale(0.4)
+			rotate(-23deg);
+		transform: translateX(80vw) translateY(35vh) scale(0.4) rotate(-23deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(4vh) scale(0.4)
+			rotate(-5deg);
+		transform: translateX(110vw) translateY(4vh) scale(0.4) rotate(-5deg);
+	}
+}
+.corona-virus-22-location {
+	-webkit-animation: coronaLocation22 10s linear var(--delay, 21120ms);
+	animation: coronaLocation22 10s linear var(--delay, 21120ms);
+}
+
+@-webkit-keyframes coronaLocation22 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(79vh) scale(0.8)
+			rotate(-36deg);
+		transform: translateX(-10vw) translateY(79vh) scale(0.8) rotate(-36deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(3vh) scale(0.5) rotate(19deg);
+		transform: translateX(20vw) translateY(3vh) scale(0.5) rotate(19deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(54vh) scale(0.4)
+			rotate(34deg);
+		transform: translateX(40vw) translateY(54vh) scale(0.4) rotate(34deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(45vh) scale(0.5)
+			rotate(-12deg);
+		transform: translateX(60vw) translateY(45vh) scale(0.5) rotate(-12deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(15vh) scale(0.7)
+			rotate(-25deg);
+		transform: translateX(80vw) translateY(15vh) scale(0.7) rotate(-25deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(14vh) scale(0.8)
+			rotate(28deg);
+		transform: translateX(110vw) translateY(14vh) scale(0.8) rotate(28deg);
+	}
+}
+
+@keyframes coronaLocation22 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(79vh) scale(0.8)
+			rotate(-36deg);
+		transform: translateX(-10vw) translateY(79vh) scale(0.8) rotate(-36deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(3vh) scale(0.5) rotate(19deg);
+		transform: translateX(20vw) translateY(3vh) scale(0.5) rotate(19deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(54vh) scale(0.4)
+			rotate(34deg);
+		transform: translateX(40vw) translateY(54vh) scale(0.4) rotate(34deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(45vh) scale(0.5)
+			rotate(-12deg);
+		transform: translateX(60vw) translateY(45vh) scale(0.5) rotate(-12deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(15vh) scale(0.7)
+			rotate(-25deg);
+		transform: translateX(80vw) translateY(15vh) scale(0.7) rotate(-25deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(14vh) scale(0.8)
+			rotate(28deg);
+		transform: translateX(110vw) translateY(14vh) scale(0.8) rotate(28deg);
+	}
+}
+.corona-virus-23-location {
+	-webkit-animation: coronaLocation23 10s linear var(--delay, 22080ms);
+	animation: coronaLocation23 10s linear var(--delay, 22080ms);
+}
+
+@-webkit-keyframes coronaLocation23 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(79vh) scale(0.5)
+			rotate(42deg);
+		transform: translateX(-10vw) translateY(79vh) scale(0.5) rotate(42deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(27vh) scale(0.8)
+			rotate(-27deg);
+		transform: translateX(20vw) translateY(27vh) scale(0.8) rotate(-27deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(5vh) scale(0.5) rotate(40deg);
+		transform: translateX(40vw) translateY(5vh) scale(0.5) rotate(40deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(31vh) scale(0.8)
+			rotate(-29deg);
+		transform: translateX(60vw) translateY(31vh) scale(0.8) rotate(-29deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(16vh) scale(0.5)
+			rotate(-34deg);
+		transform: translateX(80vw) translateY(16vh) scale(0.5) rotate(-34deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(68vh) scale(0.7)
+			rotate(4deg);
+		transform: translateX(110vw) translateY(68vh) scale(0.7) rotate(4deg);
+	}
+}
+
+@keyframes coronaLocation23 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(79vh) scale(0.5)
+			rotate(42deg);
+		transform: translateX(-10vw) translateY(79vh) scale(0.5) rotate(42deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(27vh) scale(0.8)
+			rotate(-27deg);
+		transform: translateX(20vw) translateY(27vh) scale(0.8) rotate(-27deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(5vh) scale(0.5) rotate(40deg);
+		transform: translateX(40vw) translateY(5vh) scale(0.5) rotate(40deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(31vh) scale(0.8)
+			rotate(-29deg);
+		transform: translateX(60vw) translateY(31vh) scale(0.8) rotate(-29deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(16vh) scale(0.5)
+			rotate(-34deg);
+		transform: translateX(80vw) translateY(16vh) scale(0.5) rotate(-34deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(68vh) scale(0.7)
+			rotate(4deg);
+		transform: translateX(110vw) translateY(68vh) scale(0.7) rotate(4deg);
+	}
+}
+.corona-virus-24-location {
+	-webkit-animation: coronaLocation24 10s linear var(--delay, 23040ms);
+	animation: coronaLocation24 10s linear var(--delay, 23040ms);
+}
+
+@-webkit-keyframes coronaLocation24 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(49vh) scale(0.5)
+			rotate(-24deg);
+		transform: translateX(-10vw) translateY(49vh) scale(0.5) rotate(-24deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(77vh) scale(0.4)
+			rotate(-39deg);
+		transform: translateX(20vw) translateY(77vh) scale(0.4) rotate(-39deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(17vh) scale(0.6)
+			rotate(-13deg);
+		transform: translateX(40vw) translateY(17vh) scale(0.6) rotate(-13deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(28vh) scale(0.8)
+			rotate(-26deg);
+		transform: translateX(60vw) translateY(28vh) scale(0.8) rotate(-26deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(68vh) scale(0.5)
+			rotate(-19deg);
+		transform: translateX(80vw) translateY(68vh) scale(0.5) rotate(-19deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(29vh) scale(0.7)
+			rotate(-37deg);
+		transform: translateX(110vw) translateY(29vh) scale(0.7) rotate(-37deg);
+	}
+}
+
+@keyframes coronaLocation24 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(49vh) scale(0.5)
+			rotate(-24deg);
+		transform: translateX(-10vw) translateY(49vh) scale(0.5) rotate(-24deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(77vh) scale(0.4)
+			rotate(-39deg);
+		transform: translateX(20vw) translateY(77vh) scale(0.4) rotate(-39deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(17vh) scale(0.6)
+			rotate(-13deg);
+		transform: translateX(40vw) translateY(17vh) scale(0.6) rotate(-13deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(28vh) scale(0.8)
+			rotate(-26deg);
+		transform: translateX(60vw) translateY(28vh) scale(0.8) rotate(-26deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(68vh) scale(0.5)
+			rotate(-19deg);
+		transform: translateX(80vw) translateY(68vh) scale(0.5) rotate(-19deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(29vh) scale(0.7)
+			rotate(-37deg);
+		transform: translateX(110vw) translateY(29vh) scale(0.7) rotate(-37deg);
+	}
+}
+.corona-virus-25-location {
+	-webkit-animation: coronaLocation25 10s linear var(--delay, 24000ms);
+	animation: coronaLocation25 10s linear var(--delay, 24000ms);
+}
+
+@-webkit-keyframes coronaLocation25 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(55vh) scale(0.7)
+			rotate(13deg);
+		transform: translateX(-10vw) translateY(55vh) scale(0.7) rotate(13deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(2vh) scale(0.5)
+			rotate(-24deg);
+		transform: translateX(20vw) translateY(2vh) scale(0.5) rotate(-24deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(39vh) scale(0.8)
+			rotate(-36deg);
+		transform: translateX(40vw) translateY(39vh) scale(0.8) rotate(-36deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(32vh) scale(0.4)
+			rotate(-38deg);
+		transform: translateX(60vw) translateY(32vh) scale(0.4) rotate(-38deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(55vh) scale(0.8) rotate(8deg);
+		transform: translateX(80vw) translateY(55vh) scale(0.8) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(71vh) scale(0.5)
+			rotate(11deg);
+		transform: translateX(110vw) translateY(71vh) scale(0.5) rotate(11deg);
+	}
+}
+
+@keyframes coronaLocation25 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(55vh) scale(0.7)
+			rotate(13deg);
+		transform: translateX(-10vw) translateY(55vh) scale(0.7) rotate(13deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(2vh) scale(0.5)
+			rotate(-24deg);
+		transform: translateX(20vw) translateY(2vh) scale(0.5) rotate(-24deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(39vh) scale(0.8)
+			rotate(-36deg);
+		transform: translateX(40vw) translateY(39vh) scale(0.8) rotate(-36deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(32vh) scale(0.4)
+			rotate(-38deg);
+		transform: translateX(60vw) translateY(32vh) scale(0.4) rotate(-38deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(55vh) scale(0.8) rotate(8deg);
+		transform: translateX(80vw) translateY(55vh) scale(0.8) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(71vh) scale(0.5)
+			rotate(11deg);
+		transform: translateX(110vw) translateY(71vh) scale(0.5) rotate(11deg);
+	}
+}
+.corona-virus-26-location {
+	-webkit-animation: coronaLocation26 10s linear var(--delay, 24960ms);
+	animation: coronaLocation26 10s linear var(--delay, 24960ms);
+}
+
+@-webkit-keyframes coronaLocation26 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(73vh) scale(0.7)
+			rotate(-32deg);
+		transform: translateX(-10vw) translateY(73vh) scale(0.7) rotate(-32deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(29vh) scale(0.8)
+			rotate(-7deg);
+		transform: translateX(20vw) translateY(29vh) scale(0.8) rotate(-7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(28vh) scale(0.7)
+			rotate(-44deg);
+		transform: translateX(40vw) translateY(28vh) scale(0.7) rotate(-44deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(50vh) scale(0.8)
+			rotate(-28deg);
+		transform: translateX(60vw) translateY(50vh) scale(0.8) rotate(-28deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(21vh) scale(0.8)
+			rotate(-41deg);
+		transform: translateX(80vw) translateY(21vh) scale(0.8) rotate(-41deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(74vh) scale(0.7)
+			rotate(-30deg);
+		transform: translateX(110vw) translateY(74vh) scale(0.7) rotate(-30deg);
+	}
+}
+
+@keyframes coronaLocation26 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(73vh) scale(0.7)
+			rotate(-32deg);
+		transform: translateX(-10vw) translateY(73vh) scale(0.7) rotate(-32deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(29vh) scale(0.8)
+			rotate(-7deg);
+		transform: translateX(20vw) translateY(29vh) scale(0.8) rotate(-7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(28vh) scale(0.7)
+			rotate(-44deg);
+		transform: translateX(40vw) translateY(28vh) scale(0.7) rotate(-44deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(50vh) scale(0.8)
+			rotate(-28deg);
+		transform: translateX(60vw) translateY(50vh) scale(0.8) rotate(-28deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(21vh) scale(0.8)
+			rotate(-41deg);
+		transform: translateX(80vw) translateY(21vh) scale(0.8) rotate(-41deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(74vh) scale(0.7)
+			rotate(-30deg);
+		transform: translateX(110vw) translateY(74vh) scale(0.7) rotate(-30deg);
+	}
+}
+.corona-virus-27-location {
+	-webkit-animation: coronaLocation27 10s linear var(--delay, 25920ms);
+	animation: coronaLocation27 10s linear var(--delay, 25920ms);
+}
+
+@-webkit-keyframes coronaLocation27 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(3vh) scale(0.4)
+			rotate(31deg);
+		transform: translateX(-10vw) translateY(3vh) scale(0.4) rotate(31deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(13vh) scale(0.5)
+			rotate(-7deg);
+		transform: translateX(20vw) translateY(13vh) scale(0.5) rotate(-7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(51vh) scale(0.8)
+			rotate(38deg);
+		transform: translateX(40vw) translateY(51vh) scale(0.8) rotate(38deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(55vh) scale(0.8)
+			rotate(-12deg);
+		transform: translateX(60vw) translateY(55vh) scale(0.8) rotate(-12deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(44vh) scale(0.5)
+			rotate(32deg);
+		transform: translateX(80vw) translateY(44vh) scale(0.5) rotate(32deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(40vh) scale(0.8)
+			rotate(-1deg);
+		transform: translateX(110vw) translateY(40vh) scale(0.8) rotate(-1deg);
+	}
+}
+
+@keyframes coronaLocation27 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(3vh) scale(0.4)
+			rotate(31deg);
+		transform: translateX(-10vw) translateY(3vh) scale(0.4) rotate(31deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(13vh) scale(0.5)
+			rotate(-7deg);
+		transform: translateX(20vw) translateY(13vh) scale(0.5) rotate(-7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(51vh) scale(0.8)
+			rotate(38deg);
+		transform: translateX(40vw) translateY(51vh) scale(0.8) rotate(38deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(55vh) scale(0.8)
+			rotate(-12deg);
+		transform: translateX(60vw) translateY(55vh) scale(0.8) rotate(-12deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(44vh) scale(0.5)
+			rotate(32deg);
+		transform: translateX(80vw) translateY(44vh) scale(0.5) rotate(32deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(40vh) scale(0.8)
+			rotate(-1deg);
+		transform: translateX(110vw) translateY(40vh) scale(0.8) rotate(-1deg);
+	}
+}
+.corona-virus-28-location {
+	-webkit-animation: coronaLocation28 10s linear var(--delay, 26880ms);
+	animation: coronaLocation28 10s linear var(--delay, 26880ms);
+}
+
+@-webkit-keyframes coronaLocation28 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(42vh) scale(0.5)
+			rotate(-7deg);
+		transform: translateX(-10vw) translateY(42vh) scale(0.5) rotate(-7deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(34vh) scale(0.5)
+			rotate(13deg);
+		transform: translateX(20vw) translateY(34vh) scale(0.5) rotate(13deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(26vh) scale(0.7)
+			rotate(-44deg);
+		transform: translateX(40vw) translateY(26vh) scale(0.7) rotate(-44deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(11vh) scale(0.7)
+			rotate(-14deg);
+		transform: translateX(60vw) translateY(11vh) scale(0.7) rotate(-14deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(23vh) scale(0.5) rotate(4deg);
+		transform: translateX(80vw) translateY(23vh) scale(0.5) rotate(4deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(80vh) scale(0.7)
+			rotate(36deg);
+		transform: translateX(110vw) translateY(80vh) scale(0.7) rotate(36deg);
+	}
+}
+
+@keyframes coronaLocation28 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(42vh) scale(0.5)
+			rotate(-7deg);
+		transform: translateX(-10vw) translateY(42vh) scale(0.5) rotate(-7deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(34vh) scale(0.5)
+			rotate(13deg);
+		transform: translateX(20vw) translateY(34vh) scale(0.5) rotate(13deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(26vh) scale(0.7)
+			rotate(-44deg);
+		transform: translateX(40vw) translateY(26vh) scale(0.7) rotate(-44deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(11vh) scale(0.7)
+			rotate(-14deg);
+		transform: translateX(60vw) translateY(11vh) scale(0.7) rotate(-14deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(23vh) scale(0.5) rotate(4deg);
+		transform: translateX(80vw) translateY(23vh) scale(0.5) rotate(4deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(80vh) scale(0.7)
+			rotate(36deg);
+		transform: translateX(110vw) translateY(80vh) scale(0.7) rotate(36deg);
+	}
+}
+.corona-virus-29-location {
+	-webkit-animation: coronaLocation29 10s linear var(--delay, 27840ms);
+	animation: coronaLocation29 10s linear var(--delay, 27840ms);
+}
+
+@-webkit-keyframes coronaLocation29 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(58vh) scale(0.6)
+			rotate(4deg);
+		transform: translateX(-10vw) translateY(58vh) scale(0.6) rotate(4deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(19vh) scale(0.7)
+			rotate(-7deg);
+		transform: translateX(20vw) translateY(19vh) scale(0.7) rotate(-7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(36vh) scale(0.5)
+			rotate(45deg);
+		transform: translateX(40vw) translateY(36vh) scale(0.5) rotate(45deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(79vh) scale(0.5)
+			rotate(-29deg);
+		transform: translateX(60vw) translateY(79vh) scale(0.5) rotate(-29deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(52vh) scale(0.5)
+			rotate(-17deg);
+		transform: translateX(80vw) translateY(52vh) scale(0.5) rotate(-17deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(79vh) scale(0.8)
+			rotate(-38deg);
+		transform: translateX(110vw) translateY(79vh) scale(0.8) rotate(-38deg);
+	}
+}
+
+@keyframes coronaLocation29 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(58vh) scale(0.6)
+			rotate(4deg);
+		transform: translateX(-10vw) translateY(58vh) scale(0.6) rotate(4deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(19vh) scale(0.7)
+			rotate(-7deg);
+		transform: translateX(20vw) translateY(19vh) scale(0.7) rotate(-7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(36vh) scale(0.5)
+			rotate(45deg);
+		transform: translateX(40vw) translateY(36vh) scale(0.5) rotate(45deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(79vh) scale(0.5)
+			rotate(-29deg);
+		transform: translateX(60vw) translateY(79vh) scale(0.5) rotate(-29deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(52vh) scale(0.5)
+			rotate(-17deg);
+		transform: translateX(80vw) translateY(52vh) scale(0.5) rotate(-17deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(79vh) scale(0.8)
+			rotate(-38deg);
+		transform: translateX(110vw) translateY(79vh) scale(0.8) rotate(-38deg);
+	}
+}
+.corona-virus-30-location {
+	-webkit-animation: coronaLocation30 10s linear var(--delay, 28800ms);
+	animation: coronaLocation30 10s linear var(--delay, 28800ms);
+}
+
+@-webkit-keyframes coronaLocation30 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(59vh) scale(0.4)
+			rotate(-9deg);
+		transform: translateX(-10vw) translateY(59vh) scale(0.4) rotate(-9deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(74vh) scale(0.6)
+			rotate(-25deg);
+		transform: translateX(20vw) translateY(74vh) scale(0.6) rotate(-25deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(23vh) scale(0.7)
+			rotate(-40deg);
+		transform: translateX(40vw) translateY(23vh) scale(0.7) rotate(-40deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(5vh) scale(0.7) rotate(4deg);
+		transform: translateX(60vw) translateY(5vh) scale(0.7) rotate(4deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(54vh) scale(0.6)
+			rotate(-9deg);
+		transform: translateX(80vw) translateY(54vh) scale(0.6) rotate(-9deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(5vh) scale(0.4)
+			rotate(-16deg);
+		transform: translateX(110vw) translateY(5vh) scale(0.4) rotate(-16deg);
+	}
+}
+
+@keyframes coronaLocation30 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(59vh) scale(0.4)
+			rotate(-9deg);
+		transform: translateX(-10vw) translateY(59vh) scale(0.4) rotate(-9deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(74vh) scale(0.6)
+			rotate(-25deg);
+		transform: translateX(20vw) translateY(74vh) scale(0.6) rotate(-25deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(23vh) scale(0.7)
+			rotate(-40deg);
+		transform: translateX(40vw) translateY(23vh) scale(0.7) rotate(-40deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(5vh) scale(0.7) rotate(4deg);
+		transform: translateX(60vw) translateY(5vh) scale(0.7) rotate(4deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(54vh) scale(0.6)
+			rotate(-9deg);
+		transform: translateX(80vw) translateY(54vh) scale(0.6) rotate(-9deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(5vh) scale(0.4)
+			rotate(-16deg);
+		transform: translateX(110vw) translateY(5vh) scale(0.4) rotate(-16deg);
+	}
+}
+.corona-virus-31-location {
+	-webkit-animation: coronaLocation31 10s linear var(--delay, 29760ms);
+	animation: coronaLocation31 10s linear var(--delay, 29760ms);
+}
+
+@-webkit-keyframes coronaLocation31 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(5vh) scale(0.6)
+			rotate(-2deg);
+		transform: translateX(-10vw) translateY(5vh) scale(0.6) rotate(-2deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(73vh) scale(0.7) rotate(2deg);
+		transform: translateX(20vw) translateY(73vh) scale(0.7) rotate(2deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(61vh) scale(0.5)
+			rotate(-32deg);
+		transform: translateX(40vw) translateY(61vh) scale(0.5) rotate(-32deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(64vh) scale(0.8) rotate(6deg);
+		transform: translateX(60vw) translateY(64vh) scale(0.8) rotate(6deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(38vh) scale(0.4)
+			rotate(29deg);
+		transform: translateX(80vw) translateY(38vh) scale(0.4) rotate(29deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(12vh) scale(0.5)
+			rotate(18deg);
+		transform: translateX(110vw) translateY(12vh) scale(0.5) rotate(18deg);
+	}
+}
+
+@keyframes coronaLocation31 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(5vh) scale(0.6)
+			rotate(-2deg);
+		transform: translateX(-10vw) translateY(5vh) scale(0.6) rotate(-2deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(73vh) scale(0.7) rotate(2deg);
+		transform: translateX(20vw) translateY(73vh) scale(0.7) rotate(2deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(61vh) scale(0.5)
+			rotate(-32deg);
+		transform: translateX(40vw) translateY(61vh) scale(0.5) rotate(-32deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(64vh) scale(0.8) rotate(6deg);
+		transform: translateX(60vw) translateY(64vh) scale(0.8) rotate(6deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(38vh) scale(0.4)
+			rotate(29deg);
+		transform: translateX(80vw) translateY(38vh) scale(0.4) rotate(29deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(12vh) scale(0.5)
+			rotate(18deg);
+		transform: translateX(110vw) translateY(12vh) scale(0.5) rotate(18deg);
+	}
+}
+.corona-virus-32-location {
+	-webkit-animation: coronaLocation32 10s linear var(--delay, 30720ms);
+	animation: coronaLocation32 10s linear var(--delay, 30720ms);
+}
+
+@-webkit-keyframes coronaLocation32 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(61vh) scale(0.7)
+			rotate(-23deg);
+		transform: translateX(-10vw) translateY(61vh) scale(0.7) rotate(-23deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(41vh) scale(0.8)
+			rotate(-33deg);
+		transform: translateX(20vw) translateY(41vh) scale(0.8) rotate(-33deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(32vh) scale(0.6)
+			rotate(-33deg);
+		transform: translateX(40vw) translateY(32vh) scale(0.6) rotate(-33deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(3vh) scale(0.5)
+			rotate(-38deg);
+		transform: translateX(60vw) translateY(3vh) scale(0.5) rotate(-38deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(46vh) scale(0.7) rotate(7deg);
+		transform: translateX(80vw) translateY(46vh) scale(0.7) rotate(7deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(9vh) scale(0.8)
+			rotate(-37deg);
+		transform: translateX(110vw) translateY(9vh) scale(0.8) rotate(-37deg);
+	}
+}
+
+@keyframes coronaLocation32 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(61vh) scale(0.7)
+			rotate(-23deg);
+		transform: translateX(-10vw) translateY(61vh) scale(0.7) rotate(-23deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(41vh) scale(0.8)
+			rotate(-33deg);
+		transform: translateX(20vw) translateY(41vh) scale(0.8) rotate(-33deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(32vh) scale(0.6)
+			rotate(-33deg);
+		transform: translateX(40vw) translateY(32vh) scale(0.6) rotate(-33deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(3vh) scale(0.5)
+			rotate(-38deg);
+		transform: translateX(60vw) translateY(3vh) scale(0.5) rotate(-38deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(46vh) scale(0.7) rotate(7deg);
+		transform: translateX(80vw) translateY(46vh) scale(0.7) rotate(7deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(9vh) scale(0.8)
+			rotate(-37deg);
+		transform: translateX(110vw) translateY(9vh) scale(0.8) rotate(-37deg);
+	}
+}
+.corona-virus-33-location {
+	-webkit-animation: coronaLocation33 10s linear var(--delay, 31680ms);
+	animation: coronaLocation33 10s linear var(--delay, 31680ms);
+}
+
+@-webkit-keyframes coronaLocation33 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(47vh) scale(0.7)
+			rotate(-32deg);
+		transform: translateX(-10vw) translateY(47vh) scale(0.7) rotate(-32deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(68vh) scale(0.7)
+			rotate(-7deg);
+		transform: translateX(20vw) translateY(68vh) scale(0.7) rotate(-7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(48vh) scale(0.4)
+			rotate(33deg);
+		transform: translateX(40vw) translateY(48vh) scale(0.4) rotate(33deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(45vh) scale(0.6)
+			rotate(21deg);
+		transform: translateX(60vw) translateY(45vh) scale(0.6) rotate(21deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(33vh) scale(0.8) rotate(1deg);
+		transform: translateX(80vw) translateY(33vh) scale(0.8) rotate(1deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(37vh) scale(0.4)
+			rotate(36deg);
+		transform: translateX(110vw) translateY(37vh) scale(0.4) rotate(36deg);
+	}
+}
+
+@keyframes coronaLocation33 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(47vh) scale(0.7)
+			rotate(-32deg);
+		transform: translateX(-10vw) translateY(47vh) scale(0.7) rotate(-32deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(68vh) scale(0.7)
+			rotate(-7deg);
+		transform: translateX(20vw) translateY(68vh) scale(0.7) rotate(-7deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(48vh) scale(0.4)
+			rotate(33deg);
+		transform: translateX(40vw) translateY(48vh) scale(0.4) rotate(33deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(45vh) scale(0.6)
+			rotate(21deg);
+		transform: translateX(60vw) translateY(45vh) scale(0.6) rotate(21deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(33vh) scale(0.8) rotate(1deg);
+		transform: translateX(80vw) translateY(33vh) scale(0.8) rotate(1deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(37vh) scale(0.4)
+			rotate(36deg);
+		transform: translateX(110vw) translateY(37vh) scale(0.4) rotate(36deg);
+	}
+}
+.corona-virus-34-location {
+	-webkit-animation: coronaLocation34 10s linear var(--delay, 32640ms);
+	animation: coronaLocation34 10s linear var(--delay, 32640ms);
+}
+
+@-webkit-keyframes coronaLocation34 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(12vh) scale(0.4)
+			rotate(13deg);
+		transform: translateX(-10vw) translateY(12vh) scale(0.4) rotate(13deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(64vh) scale(0.6)
+			rotate(38deg);
+		transform: translateX(20vw) translateY(64vh) scale(0.6) rotate(38deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(55vh) scale(0.6)
+			rotate(-24deg);
+		transform: translateX(40vw) translateY(55vh) scale(0.6) rotate(-24deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(65vh) scale(0.5)
+			rotate(-43deg);
+		transform: translateX(60vw) translateY(65vh) scale(0.5) rotate(-43deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(69vh) scale(0.4)
+			rotate(35deg);
+		transform: translateX(80vw) translateY(69vh) scale(0.4) rotate(35deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(52vh) scale(0.7)
+			rotate(-20deg);
+		transform: translateX(110vw) translateY(52vh) scale(0.7) rotate(-20deg);
+	}
+}
+
+@keyframes coronaLocation34 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(12vh) scale(0.4)
+			rotate(13deg);
+		transform: translateX(-10vw) translateY(12vh) scale(0.4) rotate(13deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(64vh) scale(0.6)
+			rotate(38deg);
+		transform: translateX(20vw) translateY(64vh) scale(0.6) rotate(38deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(55vh) scale(0.6)
+			rotate(-24deg);
+		transform: translateX(40vw) translateY(55vh) scale(0.6) rotate(-24deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(65vh) scale(0.5)
+			rotate(-43deg);
+		transform: translateX(60vw) translateY(65vh) scale(0.5) rotate(-43deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(69vh) scale(0.4)
+			rotate(35deg);
+		transform: translateX(80vw) translateY(69vh) scale(0.4) rotate(35deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(52vh) scale(0.7)
+			rotate(-20deg);
+		transform: translateX(110vw) translateY(52vh) scale(0.7) rotate(-20deg);
+	}
+}
+.corona-virus-35-location {
+	-webkit-animation: coronaLocation35 10s linear var(--delay, 33600ms);
+	animation: coronaLocation35 10s linear var(--delay, 33600ms);
+}
+
+@-webkit-keyframes coronaLocation35 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(56vh) scale(0.8)
+			rotate(9deg);
+		transform: translateX(-10vw) translateY(56vh) scale(0.8) rotate(9deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(32vh) scale(0.7) rotate(0deg);
+		transform: translateX(20vw) translateY(32vh) scale(0.7) rotate(0deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(5vh) scale(0.8) rotate(36deg);
+		transform: translateX(40vw) translateY(5vh) scale(0.8) rotate(36deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(29vh) scale(0.7)
+			rotate(-6deg);
+		transform: translateX(60vw) translateY(29vh) scale(0.7) rotate(-6deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(59vh) scale(0.6)
+			rotate(-27deg);
+		transform: translateX(80vw) translateY(59vh) scale(0.6) rotate(-27deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(49vh) scale(0.6)
+			rotate(-11deg);
+		transform: translateX(110vw) translateY(49vh) scale(0.6) rotate(-11deg);
+	}
+}
+
+@keyframes coronaLocation35 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(56vh) scale(0.8)
+			rotate(9deg);
+		transform: translateX(-10vw) translateY(56vh) scale(0.8) rotate(9deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(32vh) scale(0.7) rotate(0deg);
+		transform: translateX(20vw) translateY(32vh) scale(0.7) rotate(0deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(5vh) scale(0.8) rotate(36deg);
+		transform: translateX(40vw) translateY(5vh) scale(0.8) rotate(36deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(29vh) scale(0.7)
+			rotate(-6deg);
+		transform: translateX(60vw) translateY(29vh) scale(0.7) rotate(-6deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(59vh) scale(0.6)
+			rotate(-27deg);
+		transform: translateX(80vw) translateY(59vh) scale(0.6) rotate(-27deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(49vh) scale(0.6)
+			rotate(-11deg);
+		transform: translateX(110vw) translateY(49vh) scale(0.6) rotate(-11deg);
+	}
+}
+.corona-virus-36-location {
+	-webkit-animation: coronaLocation36 10s linear var(--delay, 34560ms);
+	animation: coronaLocation36 10s linear var(--delay, 34560ms);
+}
+
+@-webkit-keyframes coronaLocation36 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(59vh) scale(0.8)
+			rotate(30deg);
+		transform: translateX(-10vw) translateY(59vh) scale(0.8) rotate(30deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(53vh) scale(0.4)
+			rotate(-2deg);
+		transform: translateX(20vw) translateY(53vh) scale(0.4) rotate(-2deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(48vh) scale(0.6)
+			rotate(-19deg);
+		transform: translateX(40vw) translateY(48vh) scale(0.6) rotate(-19deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(62vh) scale(0.7)
+			rotate(45deg);
+		transform: translateX(60vw) translateY(62vh) scale(0.7) rotate(45deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(54vh) scale(0.5)
+			rotate(30deg);
+		transform: translateX(80vw) translateY(54vh) scale(0.5) rotate(30deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(77vh) scale(0.4)
+			rotate(38deg);
+		transform: translateX(110vw) translateY(77vh) scale(0.4) rotate(38deg);
+	}
+}
+
+@keyframes coronaLocation36 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(59vh) scale(0.8)
+			rotate(30deg);
+		transform: translateX(-10vw) translateY(59vh) scale(0.8) rotate(30deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(53vh) scale(0.4)
+			rotate(-2deg);
+		transform: translateX(20vw) translateY(53vh) scale(0.4) rotate(-2deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(48vh) scale(0.6)
+			rotate(-19deg);
+		transform: translateX(40vw) translateY(48vh) scale(0.6) rotate(-19deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(62vh) scale(0.7)
+			rotate(45deg);
+		transform: translateX(60vw) translateY(62vh) scale(0.7) rotate(45deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(54vh) scale(0.5)
+			rotate(30deg);
+		transform: translateX(80vw) translateY(54vh) scale(0.5) rotate(30deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(77vh) scale(0.4)
+			rotate(38deg);
+		transform: translateX(110vw) translateY(77vh) scale(0.4) rotate(38deg);
+	}
+}
+.corona-virus-37-location {
+	-webkit-animation: coronaLocation37 10s linear var(--delay, 35520ms);
+	animation: coronaLocation37 10s linear var(--delay, 35520ms);
+}
+
+@-webkit-keyframes coronaLocation37 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(53vh) scale(0.4)
+			rotate(9deg);
+		transform: translateX(-10vw) translateY(53vh) scale(0.4) rotate(9deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(54vh) scale(0.8)
+			rotate(21deg);
+		transform: translateX(20vw) translateY(54vh) scale(0.8) rotate(21deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(43vh) scale(0.8)
+			rotate(-6deg);
+		transform: translateX(40vw) translateY(43vh) scale(0.8) rotate(-6deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(71vh) scale(0.7) rotate(8deg);
+		transform: translateX(60vw) translateY(71vh) scale(0.7) rotate(8deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(45vh) scale(0.4)
+			rotate(-12deg);
+		transform: translateX(80vw) translateY(45vh) scale(0.4) rotate(-12deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(35vh) scale(0.6)
+			rotate(13deg);
+		transform: translateX(110vw) translateY(35vh) scale(0.6) rotate(13deg);
+	}
+}
+
+@keyframes coronaLocation37 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(53vh) scale(0.4)
+			rotate(9deg);
+		transform: translateX(-10vw) translateY(53vh) scale(0.4) rotate(9deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(54vh) scale(0.8)
+			rotate(21deg);
+		transform: translateX(20vw) translateY(54vh) scale(0.8) rotate(21deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(43vh) scale(0.8)
+			rotate(-6deg);
+		transform: translateX(40vw) translateY(43vh) scale(0.8) rotate(-6deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(71vh) scale(0.7) rotate(8deg);
+		transform: translateX(60vw) translateY(71vh) scale(0.7) rotate(8deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(45vh) scale(0.4)
+			rotate(-12deg);
+		transform: translateX(80vw) translateY(45vh) scale(0.4) rotate(-12deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(35vh) scale(0.6)
+			rotate(13deg);
+		transform: translateX(110vw) translateY(35vh) scale(0.6) rotate(13deg);
+	}
+}
+.corona-virus-38-location {
+	-webkit-animation: coronaLocation38 10s linear var(--delay, 36480ms);
+	animation: coronaLocation38 10s linear var(--delay, 36480ms);
+}
+
+@-webkit-keyframes coronaLocation38 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(3vh) scale(0.4) rotate(7deg);
+		transform: translateX(-10vw) translateY(3vh) scale(0.4) rotate(7deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(21vh) scale(0.4)
+			rotate(18deg);
+		transform: translateX(20vw) translateY(21vh) scale(0.4) rotate(18deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(56vh) scale(0.4)
+			rotate(-15deg);
+		transform: translateX(40vw) translateY(56vh) scale(0.4) rotate(-15deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(64vh) scale(0.8)
+			rotate(44deg);
+		transform: translateX(60vw) translateY(64vh) scale(0.8) rotate(44deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(43vh) scale(0.6) rotate(8deg);
+		transform: translateX(80vw) translateY(43vh) scale(0.6) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(47vh) scale(0.4)
+			rotate(-21deg);
+		transform: translateX(110vw) translateY(47vh) scale(0.4) rotate(-21deg);
+	}
+}
+
+@keyframes coronaLocation38 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(3vh) scale(0.4) rotate(7deg);
+		transform: translateX(-10vw) translateY(3vh) scale(0.4) rotate(7deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(21vh) scale(0.4)
+			rotate(18deg);
+		transform: translateX(20vw) translateY(21vh) scale(0.4) rotate(18deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(56vh) scale(0.4)
+			rotate(-15deg);
+		transform: translateX(40vw) translateY(56vh) scale(0.4) rotate(-15deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(64vh) scale(0.8)
+			rotate(44deg);
+		transform: translateX(60vw) translateY(64vh) scale(0.8) rotate(44deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(43vh) scale(0.6) rotate(8deg);
+		transform: translateX(80vw) translateY(43vh) scale(0.6) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(47vh) scale(0.4)
+			rotate(-21deg);
+		transform: translateX(110vw) translateY(47vh) scale(0.4) rotate(-21deg);
+	}
+}
+.corona-virus-39-location {
+	-webkit-animation: coronaLocation39 10s linear var(--delay, 37440ms);
+	animation: coronaLocation39 10s linear var(--delay, 37440ms);
+}
+
+@-webkit-keyframes coronaLocation39 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(23vh) scale(0.5)
+			rotate(8deg);
+		transform: translateX(-10vw) translateY(23vh) scale(0.5) rotate(8deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(21vh) scale(0.7) rotate(8deg);
+		transform: translateX(20vw) translateY(21vh) scale(0.7) rotate(8deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(29vh) scale(0.5)
+			rotate(30deg);
+		transform: translateX(40vw) translateY(29vh) scale(0.5) rotate(30deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(67vh) scale(0.8)
+			rotate(-2deg);
+		transform: translateX(60vw) translateY(67vh) scale(0.8) rotate(-2deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(30vh) scale(0.5)
+			rotate(15deg);
+		transform: translateX(80vw) translateY(30vh) scale(0.5) rotate(15deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(52vh) scale(0.8)
+			rotate(-14deg);
+		transform: translateX(110vw) translateY(52vh) scale(0.8) rotate(-14deg);
+	}
+}
+
+@keyframes coronaLocation39 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(23vh) scale(0.5)
+			rotate(8deg);
+		transform: translateX(-10vw) translateY(23vh) scale(0.5) rotate(8deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(21vh) scale(0.7) rotate(8deg);
+		transform: translateX(20vw) translateY(21vh) scale(0.7) rotate(8deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(29vh) scale(0.5)
+			rotate(30deg);
+		transform: translateX(40vw) translateY(29vh) scale(0.5) rotate(30deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(67vh) scale(0.8)
+			rotate(-2deg);
+		transform: translateX(60vw) translateY(67vh) scale(0.8) rotate(-2deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(30vh) scale(0.5)
+			rotate(15deg);
+		transform: translateX(80vw) translateY(30vh) scale(0.5) rotate(15deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(52vh) scale(0.8)
+			rotate(-14deg);
+		transform: translateX(110vw) translateY(52vh) scale(0.8) rotate(-14deg);
+	}
+}
+.corona-virus-40-location {
+	-webkit-animation: coronaLocation40 10s linear var(--delay, 38400ms);
+	animation: coronaLocation40 10s linear var(--delay, 38400ms);
+}
+
+@-webkit-keyframes coronaLocation40 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(79vh) scale(0.8)
+			rotate(-20deg);
+		transform: translateX(-10vw) translateY(79vh) scale(0.8) rotate(-20deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(13vh) scale(0.8)
+			rotate(-28deg);
+		transform: translateX(20vw) translateY(13vh) scale(0.8) rotate(-28deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(63vh) scale(0.6)
+			rotate(28deg);
+		transform: translateX(40vw) translateY(63vh) scale(0.6) rotate(28deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(17vh) scale(0.4)
+			rotate(-44deg);
+		transform: translateX(60vw) translateY(17vh) scale(0.4) rotate(-44deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(74vh) scale(0.4) rotate(9deg);
+		transform: translateX(80vw) translateY(74vh) scale(0.4) rotate(9deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(42vh) scale(0.4)
+			rotate(3deg);
+		transform: translateX(110vw) translateY(42vh) scale(0.4) rotate(3deg);
+	}
+}
+
+@keyframes coronaLocation40 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(79vh) scale(0.8)
+			rotate(-20deg);
+		transform: translateX(-10vw) translateY(79vh) scale(0.8) rotate(-20deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(13vh) scale(0.8)
+			rotate(-28deg);
+		transform: translateX(20vw) translateY(13vh) scale(0.8) rotate(-28deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(63vh) scale(0.6)
+			rotate(28deg);
+		transform: translateX(40vw) translateY(63vh) scale(0.6) rotate(28deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(17vh) scale(0.4)
+			rotate(-44deg);
+		transform: translateX(60vw) translateY(17vh) scale(0.4) rotate(-44deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(74vh) scale(0.4) rotate(9deg);
+		transform: translateX(80vw) translateY(74vh) scale(0.4) rotate(9deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(42vh) scale(0.4)
+			rotate(3deg);
+		transform: translateX(110vw) translateY(42vh) scale(0.4) rotate(3deg);
+	}
+}
+.corona-virus-41-location {
+	-webkit-animation: coronaLocation41 10s linear var(--delay, 39360ms);
+	animation: coronaLocation41 10s linear var(--delay, 39360ms);
+}
+
+@-webkit-keyframes coronaLocation41 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(22vh) scale(0.7)
+			rotate(-6deg);
+		transform: translateX(-10vw) translateY(22vh) scale(0.7) rotate(-6deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(7vh) scale(0.5) rotate(45deg);
+		transform: translateX(20vw) translateY(7vh) scale(0.5) rotate(45deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(13vh) scale(0.4)
+			rotate(11deg);
+		transform: translateX(40vw) translateY(13vh) scale(0.4) rotate(11deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(72vh) scale(0.4)
+			rotate(37deg);
+		transform: translateX(60vw) translateY(72vh) scale(0.4) rotate(37deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(72vh) scale(0.7)
+			rotate(43deg);
+		transform: translateX(80vw) translateY(72vh) scale(0.7) rotate(43deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(1vh) scale(0.7)
+			rotate(33deg);
+		transform: translateX(110vw) translateY(1vh) scale(0.7) rotate(33deg);
+	}
+}
+
+@keyframes coronaLocation41 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(22vh) scale(0.7)
+			rotate(-6deg);
+		transform: translateX(-10vw) translateY(22vh) scale(0.7) rotate(-6deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(7vh) scale(0.5) rotate(45deg);
+		transform: translateX(20vw) translateY(7vh) scale(0.5) rotate(45deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(13vh) scale(0.4)
+			rotate(11deg);
+		transform: translateX(40vw) translateY(13vh) scale(0.4) rotate(11deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(72vh) scale(0.4)
+			rotate(37deg);
+		transform: translateX(60vw) translateY(72vh) scale(0.4) rotate(37deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(72vh) scale(0.7)
+			rotate(43deg);
+		transform: translateX(80vw) translateY(72vh) scale(0.7) rotate(43deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(1vh) scale(0.7)
+			rotate(33deg);
+		transform: translateX(110vw) translateY(1vh) scale(0.7) rotate(33deg);
+	}
+}
+.corona-virus-42-location {
+	-webkit-animation: coronaLocation42 10s linear var(--delay, 40320ms);
+	animation: coronaLocation42 10s linear var(--delay, 40320ms);
+}
+
+@-webkit-keyframes coronaLocation42 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(19vh) scale(0.4)
+			rotate(8deg);
+		transform: translateX(-10vw) translateY(19vh) scale(0.4) rotate(8deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(53vh) scale(0.6) rotate(5deg);
+		transform: translateX(20vw) translateY(53vh) scale(0.6) rotate(5deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(4vh) scale(0.4) rotate(5deg);
+		transform: translateX(40vw) translateY(4vh) scale(0.4) rotate(5deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(77vh) scale(0.6)
+			rotate(44deg);
+		transform: translateX(60vw) translateY(77vh) scale(0.6) rotate(44deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(20vh) scale(0.8)
+			rotate(-42deg);
+		transform: translateX(80vw) translateY(20vh) scale(0.8) rotate(-42deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(80vh) scale(0.7)
+			rotate(-33deg);
+		transform: translateX(110vw) translateY(80vh) scale(0.7) rotate(-33deg);
+	}
+}
+
+@keyframes coronaLocation42 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(19vh) scale(0.4)
+			rotate(8deg);
+		transform: translateX(-10vw) translateY(19vh) scale(0.4) rotate(8deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(53vh) scale(0.6) rotate(5deg);
+		transform: translateX(20vw) translateY(53vh) scale(0.6) rotate(5deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(4vh) scale(0.4) rotate(5deg);
+		transform: translateX(40vw) translateY(4vh) scale(0.4) rotate(5deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(77vh) scale(0.6)
+			rotate(44deg);
+		transform: translateX(60vw) translateY(77vh) scale(0.6) rotate(44deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(20vh) scale(0.8)
+			rotate(-42deg);
+		transform: translateX(80vw) translateY(20vh) scale(0.8) rotate(-42deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(80vh) scale(0.7)
+			rotate(-33deg);
+		transform: translateX(110vw) translateY(80vh) scale(0.7) rotate(-33deg);
+	}
+}
+.corona-virus-43-location {
+	-webkit-animation: coronaLocation43 10s linear var(--delay, 41280ms);
+	animation: coronaLocation43 10s linear var(--delay, 41280ms);
+}
+
+@-webkit-keyframes coronaLocation43 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(71vh) scale(0.4)
+			rotate(34deg);
+		transform: translateX(-10vw) translateY(71vh) scale(0.4) rotate(34deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(40vh) scale(0.6)
+			rotate(38deg);
+		transform: translateX(20vw) translateY(40vh) scale(0.6) rotate(38deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(8vh) scale(0.7)
+			rotate(-42deg);
+		transform: translateX(40vw) translateY(8vh) scale(0.7) rotate(-42deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(18vh) scale(0.5)
+			rotate(-25deg);
+		transform: translateX(60vw) translateY(18vh) scale(0.5) rotate(-25deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(12vh) scale(0.5) rotate(8deg);
+		transform: translateX(80vw) translateY(12vh) scale(0.5) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(65vh) scale(0.7)
+			rotate(31deg);
+		transform: translateX(110vw) translateY(65vh) scale(0.7) rotate(31deg);
+	}
+}
+
+@keyframes coronaLocation43 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(71vh) scale(0.4)
+			rotate(34deg);
+		transform: translateX(-10vw) translateY(71vh) scale(0.4) rotate(34deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(40vh) scale(0.6)
+			rotate(38deg);
+		transform: translateX(20vw) translateY(40vh) scale(0.6) rotate(38deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(8vh) scale(0.7)
+			rotate(-42deg);
+		transform: translateX(40vw) translateY(8vh) scale(0.7) rotate(-42deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(18vh) scale(0.5)
+			rotate(-25deg);
+		transform: translateX(60vw) translateY(18vh) scale(0.5) rotate(-25deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(12vh) scale(0.5) rotate(8deg);
+		transform: translateX(80vw) translateY(12vh) scale(0.5) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(65vh) scale(0.7)
+			rotate(31deg);
+		transform: translateX(110vw) translateY(65vh) scale(0.7) rotate(31deg);
+	}
+}
+.corona-virus-44-location {
+	-webkit-animation: coronaLocation44 10s linear var(--delay, 42240ms);
+	animation: coronaLocation44 10s linear var(--delay, 42240ms);
+}
+
+@-webkit-keyframes coronaLocation44 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(16vh) scale(0.5)
+			rotate(17deg);
+		transform: translateX(-10vw) translateY(16vh) scale(0.5) rotate(17deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(38vh) scale(0.6)
+			rotate(31deg);
+		transform: translateX(20vw) translateY(38vh) scale(0.6) rotate(31deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(43vh) scale(0.8)
+			rotate(29deg);
+		transform: translateX(40vw) translateY(43vh) scale(0.8) rotate(29deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(46vh) scale(0.8)
+			rotate(-16deg);
+		transform: translateX(60vw) translateY(46vh) scale(0.8) rotate(-16deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(3vh) scale(0.7) rotate(32deg);
+		transform: translateX(80vw) translateY(3vh) scale(0.7) rotate(32deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(49vh) scale(0.8)
+			rotate(34deg);
+		transform: translateX(110vw) translateY(49vh) scale(0.8) rotate(34deg);
+	}
+}
+
+@keyframes coronaLocation44 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(16vh) scale(0.5)
+			rotate(17deg);
+		transform: translateX(-10vw) translateY(16vh) scale(0.5) rotate(17deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(38vh) scale(0.6)
+			rotate(31deg);
+		transform: translateX(20vw) translateY(38vh) scale(0.6) rotate(31deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(43vh) scale(0.8)
+			rotate(29deg);
+		transform: translateX(40vw) translateY(43vh) scale(0.8) rotate(29deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(46vh) scale(0.8)
+			rotate(-16deg);
+		transform: translateX(60vw) translateY(46vh) scale(0.8) rotate(-16deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(3vh) scale(0.7) rotate(32deg);
+		transform: translateX(80vw) translateY(3vh) scale(0.7) rotate(32deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(49vh) scale(0.8)
+			rotate(34deg);
+		transform: translateX(110vw) translateY(49vh) scale(0.8) rotate(34deg);
+	}
+}
+.corona-virus-45-location {
+	-webkit-animation: coronaLocation45 10s linear var(--delay, 43200ms);
+	animation: coronaLocation45 10s linear var(--delay, 43200ms);
+}
+
+@-webkit-keyframes coronaLocation45 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(9vh) scale(0.8)
+			rotate(22deg);
+		transform: translateX(-10vw) translateY(9vh) scale(0.8) rotate(22deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(43vh) scale(0.4)
+			rotate(13deg);
+		transform: translateX(20vw) translateY(43vh) scale(0.4) rotate(13deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(37vh) scale(0.6)
+			rotate(-19deg);
+		transform: translateX(40vw) translateY(37vh) scale(0.6) rotate(-19deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(73vh) scale(0.8)
+			rotate(38deg);
+		transform: translateX(60vw) translateY(73vh) scale(0.8) rotate(38deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(9vh) scale(0.5) rotate(32deg);
+		transform: translateX(80vw) translateY(9vh) scale(0.5) rotate(32deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(9vh) scale(0.7)
+			rotate(40deg);
+		transform: translateX(110vw) translateY(9vh) scale(0.7) rotate(40deg);
+	}
+}
+
+@keyframes coronaLocation45 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(9vh) scale(0.8)
+			rotate(22deg);
+		transform: translateX(-10vw) translateY(9vh) scale(0.8) rotate(22deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(43vh) scale(0.4)
+			rotate(13deg);
+		transform: translateX(20vw) translateY(43vh) scale(0.4) rotate(13deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(37vh) scale(0.6)
+			rotate(-19deg);
+		transform: translateX(40vw) translateY(37vh) scale(0.6) rotate(-19deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(73vh) scale(0.8)
+			rotate(38deg);
+		transform: translateX(60vw) translateY(73vh) scale(0.8) rotate(38deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(9vh) scale(0.5) rotate(32deg);
+		transform: translateX(80vw) translateY(9vh) scale(0.5) rotate(32deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(9vh) scale(0.7)
+			rotate(40deg);
+		transform: translateX(110vw) translateY(9vh) scale(0.7) rotate(40deg);
+	}
+}
+.corona-virus-46-location {
+	-webkit-animation: coronaLocation46 10s linear var(--delay, 44160ms);
+	animation: coronaLocation46 10s linear var(--delay, 44160ms);
+}
+
+@-webkit-keyframes coronaLocation46 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(63vh) scale(0.8)
+			rotate(-26deg);
+		transform: translateX(-10vw) translateY(63vh) scale(0.8) rotate(-26deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(68vh) scale(0.5) rotate(5deg);
+		transform: translateX(20vw) translateY(68vh) scale(0.5) rotate(5deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(59vh) scale(0.7) rotate(9deg);
+		transform: translateX(40vw) translateY(59vh) scale(0.7) rotate(9deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(27vh) scale(0.7)
+			rotate(-25deg);
+		transform: translateX(60vw) translateY(27vh) scale(0.7) rotate(-25deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(3vh) scale(0.8)
+			rotate(-39deg);
+		transform: translateX(80vw) translateY(3vh) scale(0.8) rotate(-39deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(17vh) scale(0.8)
+			rotate(36deg);
+		transform: translateX(110vw) translateY(17vh) scale(0.8) rotate(36deg);
+	}
+}
+
+@keyframes coronaLocation46 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(63vh) scale(0.8)
+			rotate(-26deg);
+		transform: translateX(-10vw) translateY(63vh) scale(0.8) rotate(-26deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(68vh) scale(0.5) rotate(5deg);
+		transform: translateX(20vw) translateY(68vh) scale(0.5) rotate(5deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(59vh) scale(0.7) rotate(9deg);
+		transform: translateX(40vw) translateY(59vh) scale(0.7) rotate(9deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(27vh) scale(0.7)
+			rotate(-25deg);
+		transform: translateX(60vw) translateY(27vh) scale(0.7) rotate(-25deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(3vh) scale(0.8)
+			rotate(-39deg);
+		transform: translateX(80vw) translateY(3vh) scale(0.8) rotate(-39deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(17vh) scale(0.8)
+			rotate(36deg);
+		transform: translateX(110vw) translateY(17vh) scale(0.8) rotate(36deg);
+	}
+}
+.corona-virus-47-location {
+	-webkit-animation: coronaLocation47 10s linear var(--delay, 45120ms);
+	animation: coronaLocation47 10s linear var(--delay, 45120ms);
+}
+
+@-webkit-keyframes coronaLocation47 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(33vh) scale(0.5)
+			rotate(-43deg);
+		transform: translateX(-10vw) translateY(33vh) scale(0.5) rotate(-43deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(60vh) scale(0.8)
+			rotate(-41deg);
+		transform: translateX(20vw) translateY(60vh) scale(0.8) rotate(-41deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(16vh) scale(0.5)
+			rotate(-34deg);
+		transform: translateX(40vw) translateY(16vh) scale(0.5) rotate(-34deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(65vh) scale(0.6)
+			rotate(39deg);
+		transform: translateX(60vw) translateY(65vh) scale(0.6) rotate(39deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(59vh) scale(0.7)
+			rotate(17deg);
+		transform: translateX(80vw) translateY(59vh) scale(0.7) rotate(17deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(32vh) scale(0.5)
+			rotate(23deg);
+		transform: translateX(110vw) translateY(32vh) scale(0.5) rotate(23deg);
+	}
+}
+
+@keyframes coronaLocation47 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(33vh) scale(0.5)
+			rotate(-43deg);
+		transform: translateX(-10vw) translateY(33vh) scale(0.5) rotate(-43deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(60vh) scale(0.8)
+			rotate(-41deg);
+		transform: translateX(20vw) translateY(60vh) scale(0.8) rotate(-41deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(16vh) scale(0.5)
+			rotate(-34deg);
+		transform: translateX(40vw) translateY(16vh) scale(0.5) rotate(-34deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(65vh) scale(0.6)
+			rotate(39deg);
+		transform: translateX(60vw) translateY(65vh) scale(0.6) rotate(39deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(59vh) scale(0.7)
+			rotate(17deg);
+		transform: translateX(80vw) translateY(59vh) scale(0.7) rotate(17deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(32vh) scale(0.5)
+			rotate(23deg);
+		transform: translateX(110vw) translateY(32vh) scale(0.5) rotate(23deg);
+	}
+}
+.corona-virus-48-location {
+	-webkit-animation: coronaLocation48 10s linear var(--delay, 46080ms);
+	animation: coronaLocation48 10s linear var(--delay, 46080ms);
+}
+
+@-webkit-keyframes coronaLocation48 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(9vh) scale(0.7)
+			rotate(-24deg);
+		transform: translateX(-10vw) translateY(9vh) scale(0.7) rotate(-24deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(40vh) scale(0.4)
+			rotate(15deg);
+		transform: translateX(20vw) translateY(40vh) scale(0.4) rotate(15deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(14vh) scale(0.7)
+			rotate(-7deg);
+		transform: translateX(40vw) translateY(14vh) scale(0.7) rotate(-7deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(26vh) scale(0.6)
+			rotate(30deg);
+		transform: translateX(60vw) translateY(26vh) scale(0.6) rotate(30deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(36vh) scale(0.5)
+			rotate(25deg);
+		transform: translateX(80vw) translateY(36vh) scale(0.5) rotate(25deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(53vh) scale(0.7)
+			rotate(-14deg);
+		transform: translateX(110vw) translateY(53vh) scale(0.7) rotate(-14deg);
+	}
+}
+
+@keyframes coronaLocation48 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(9vh) scale(0.7)
+			rotate(-24deg);
+		transform: translateX(-10vw) translateY(9vh) scale(0.7) rotate(-24deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(40vh) scale(0.4)
+			rotate(15deg);
+		transform: translateX(20vw) translateY(40vh) scale(0.4) rotate(15deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(14vh) scale(0.7)
+			rotate(-7deg);
+		transform: translateX(40vw) translateY(14vh) scale(0.7) rotate(-7deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(26vh) scale(0.6)
+			rotate(30deg);
+		transform: translateX(60vw) translateY(26vh) scale(0.6) rotate(30deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(36vh) scale(0.5)
+			rotate(25deg);
+		transform: translateX(80vw) translateY(36vh) scale(0.5) rotate(25deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(53vh) scale(0.7)
+			rotate(-14deg);
+		transform: translateX(110vw) translateY(53vh) scale(0.7) rotate(-14deg);
+	}
+}
+.corona-virus-49-location {
+	-webkit-animation: coronaLocation49 10s linear var(--delay, 47040ms);
+	animation: coronaLocation49 10s linear var(--delay, 47040ms);
+}
+
+@-webkit-keyframes coronaLocation49 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(25vh) scale(0.4)
+			rotate(-21deg);
+		transform: translateX(-10vw) translateY(25vh) scale(0.4) rotate(-21deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(65vh) scale(0.6)
+			rotate(33deg);
+		transform: translateX(20vw) translateY(65vh) scale(0.6) rotate(33deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(51vh) scale(0.6)
+			rotate(15deg);
+		transform: translateX(40vw) translateY(51vh) scale(0.6) rotate(15deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(8vh) scale(0.4) rotate(18deg);
+		transform: translateX(60vw) translateY(8vh) scale(0.4) rotate(18deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(26vh) scale(0.8) rotate(8deg);
+		transform: translateX(80vw) translateY(26vh) scale(0.8) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(14vh) scale(0.6)
+			rotate(-13deg);
+		transform: translateX(110vw) translateY(14vh) scale(0.6) rotate(-13deg);
+	}
+}
+
+@keyframes coronaLocation49 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(25vh) scale(0.4)
+			rotate(-21deg);
+		transform: translateX(-10vw) translateY(25vh) scale(0.4) rotate(-21deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(65vh) scale(0.6)
+			rotate(33deg);
+		transform: translateX(20vw) translateY(65vh) scale(0.6) rotate(33deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(51vh) scale(0.6)
+			rotate(15deg);
+		transform: translateX(40vw) translateY(51vh) scale(0.6) rotate(15deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(8vh) scale(0.4) rotate(18deg);
+		transform: translateX(60vw) translateY(8vh) scale(0.4) rotate(18deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(26vh) scale(0.8) rotate(8deg);
+		transform: translateX(80vw) translateY(26vh) scale(0.8) rotate(8deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(14vh) scale(0.6)
+			rotate(-13deg);
+		transform: translateX(110vw) translateY(14vh) scale(0.6) rotate(-13deg);
+	}
+}
+.corona-virus-50-location {
+	-webkit-animation: coronaLocation50 10s linear var(--delay, 48000ms);
+	animation: coronaLocation50 10s linear var(--delay, 48000ms);
+}
+
+@-webkit-keyframes coronaLocation50 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(34vh) scale(0.7)
+			rotate(-17deg);
+		transform: translateX(-10vw) translateY(34vh) scale(0.7) rotate(-17deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(55vh) scale(0.5)
+			rotate(36deg);
+		transform: translateX(20vw) translateY(55vh) scale(0.5) rotate(36deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(76vh) scale(0.6)
+			rotate(-32deg);
+		transform: translateX(40vw) translateY(76vh) scale(0.6) rotate(-32deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(67vh) scale(0.8)
+			rotate(24deg);
+		transform: translateX(60vw) translateY(67vh) scale(0.8) rotate(24deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(32vh) scale(0.5)
+			rotate(-14deg);
+		transform: translateX(80vw) translateY(32vh) scale(0.5) rotate(-14deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(35vh) scale(0.4)
+			rotate(19deg);
+		transform: translateX(110vw) translateY(35vh) scale(0.4) rotate(19deg);
+	}
+}
+
+@keyframes coronaLocation50 {
+	0% {
+		-webkit-transform: translateX(-10vw) translateY(34vh) scale(0.7)
+			rotate(-17deg);
+		transform: translateX(-10vw) translateY(34vh) scale(0.7) rotate(-17deg);
+	}
+	20% {
+		-webkit-transform: translateX(20vw) translateY(55vh) scale(0.5)
+			rotate(36deg);
+		transform: translateX(20vw) translateY(55vh) scale(0.5) rotate(36deg);
+	}
+	40% {
+		-webkit-transform: translateX(40vw) translateY(76vh) scale(0.6)
+			rotate(-32deg);
+		transform: translateX(40vw) translateY(76vh) scale(0.6) rotate(-32deg);
+	}
+	60% {
+		-webkit-transform: translateX(60vw) translateY(67vh) scale(0.8)
+			rotate(24deg);
+		transform: translateX(60vw) translateY(67vh) scale(0.8) rotate(24deg);
+	}
+	80% {
+		-webkit-transform: translateX(80vw) translateY(32vh) scale(0.5)
+			rotate(-14deg);
+		transform: translateX(80vw) translateY(32vh) scale(0.5) rotate(-14deg);
+	}
+	100% {
+		-webkit-transform: translateX(110vw) translateY(35vh) scale(0.4)
+			rotate(19deg);
+		transform: translateX(110vw) translateY(35vh) scale(0.4) rotate(19deg);
+	}
+}
