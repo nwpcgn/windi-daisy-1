@@ -1,0 +1,69 @@
+:root {
+	--sky-50: #dff4fd;
+	--sky-100: #b5e4f9;
+	--sky-200: #8bd4f5;
+	--sky-300: #62c5f1;
+	--sky-400: #38b5ed;
+	--sky-500: #0ea5e9;
+	--sky-600: #0c87bf;
+	--sky-700: #096a95;
+	--sky-800: #074c6b;
+	--sky-900: #042e41;
+	--gray-50: #e7eaee;
+	--gray-100: #cdd2da;
+	--gray-200: #b3bbc6;
+	--gray-300: #98a3b3;
+	--gray-400: #7e8c9f;
+	--gray-500: #64748b;
+	--gray-600: #515e71;
+	--gray-700: #3f4957;
+	--gray-800: #2c333d;
+	--gray-900: #191d23;
+	--font-stack: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+		Bitstream Vera Sans Mono, Courier New, monospace, serif;
+	--font-mono: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+		Bitstream Vera Sans Mono, Courier New, monospace, serif;
+	--font-color: var(--gray-700);
+	--background-color: #ffffff;
+	--page-width: 680px;
+	--page-space: 1rem;
+}
+
+body {
+	color: var(--font-color);
+	background-color: var(--background-color);
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+}
+
+.main {
+	flex-grow: 1;
+	position: relative;
+	overflow: hidden;
+}
+
+.layer {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.content {
+	width: 100%;
+	max-width: var(--page-width);
+	margin-left: auto;
+	margin-right: auto;
+	padding: var(--page-space);
+}
